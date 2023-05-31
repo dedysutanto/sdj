@@ -1,0 +1,18 @@
+!/bin/bash
+
+rm -fr db.sqlite3
+rm -fr data/migrations/00*
+rm -fr data_support/migrations/00*
+rm -fr dashboard/migrations/00*
+
+python manage.py makemigrations
+python manage.py migrate
+python manage.py loaddata Etnik
+python manage.py loaddata Pendidikan
+python manage.py loaddata Profesi
+python manage.py loaddata Nob
+python manage.py loaddata Pelayanan
+python manage.py loaddata Wilayah
+
+python manage.py createsuperuser
+

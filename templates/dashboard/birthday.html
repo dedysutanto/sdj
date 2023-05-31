@@ -1,0 +1,33 @@
+{% extends 'admin/base.html' %}
+
+{% block content %}
+
+{% if anggota %}
+<table id="result_list" class="table table-striped">
+    <thead>
+        <tr>
+            <th>NIA</th>
+            <th>Nama</th>
+            <th>Tanggal Lahir</th>
+            <th>Usia</th>
+            <th>Wilayah</th>
+            <th>Status Kehidupan</th>
+        </tr>
+    </thead>
+    <tbody>
+{% for angg in anggota %}
+        <tr>
+            <td>{{ angg.nomor_anggota }}</td>
+            <td><a href="{{ angg.change_url }}">{{ angg.nama_anggota }}</a></td>
+            <!--<td>{{ angg.nama_anggota }}</td>-->
+            <td>{{ angg.tanggal_lahir }}</td>
+            <td>{{ angg.calculate_age }}</td>
+            <td>{{ angg.wilayah }}</td>
+            <td>{{ angg.status_kehidupan }}</td>
+        </tr>
+{% endfor %}
+    </tbody>
+</table>
+{% endif %}
+
+{% endblock %}

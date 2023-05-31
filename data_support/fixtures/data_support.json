@@ -1,0 +1,992 @@
+[
+{
+    "model": "data_support.etnik",
+    "pk": 1,
+    "fields": {
+        "nama_etnik": "ACEH",
+        "created_at": "2021-05-22T02:12:31.996Z",
+        "updated_at": "2022-08-29T06:54:54.091Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 2,
+    "fields": {
+        "nama_etnik": "BALI",
+        "created_at": "2021-05-22T02:12:38.022Z",
+        "updated_at": "2022-08-29T06:54:54.094Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 3,
+    "fields": {
+        "nama_etnik": "BANTEN",
+        "created_at": "2021-05-22T02:12:43.164Z",
+        "updated_at": "2022-08-29T06:54:54.096Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 4,
+    "fields": {
+        "nama_etnik": "BANJAR",
+        "created_at": "2021-05-22T02:12:49.440Z",
+        "updated_at": "2022-08-29T06:54:54.097Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 5,
+    "fields": {
+        "nama_etnik": "BATAK",
+        "created_at": "2021-05-22T02:14:46.221Z",
+        "updated_at": "2022-08-29T06:54:54.098Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 6,
+    "fields": {
+        "nama_etnik": "BETAWI",
+        "created_at": "2021-05-22T02:14:53.545Z",
+        "updated_at": "2022-08-29T06:54:54.099Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 7,
+    "fields": {
+        "nama_etnik": "BUGIS",
+        "created_at": "2021-05-22T02:14:57.348Z",
+        "updated_at": "2022-08-29T06:54:54.100Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 8,
+    "fields": {
+        "nama_etnik": "CIREBON",
+        "created_at": "2021-05-22T02:15:01.390Z",
+        "updated_at": "2022-08-29T06:54:54.101Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 9,
+    "fields": {
+        "nama_etnik": "DAYAK",
+        "created_at": "2021-05-22T02:15:05.468Z",
+        "updated_at": "2022-08-29T06:54:54.102Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 10,
+    "fields": {
+        "nama_etnik": "GORONTALO",
+        "created_at": "2021-05-22T02:15:11.166Z",
+        "updated_at": "2022-08-29T06:54:54.103Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 11,
+    "fields": {
+        "nama_etnik": "JAWA",
+        "created_at": "2021-05-22T02:15:15.384Z",
+        "updated_at": "2022-08-29T06:54:54.104Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 12,
+    "fields": {
+        "nama_etnik": "LAMPUNG",
+        "created_at": "2021-05-22T02:15:19.788Z",
+        "updated_at": "2022-08-29T06:54:54.105Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 13,
+    "fields": {
+        "nama_etnik": "MADURA",
+        "created_at": "2021-05-22T02:15:23.442Z",
+        "updated_at": "2022-08-29T06:54:54.106Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 14,
+    "fields": {
+        "nama_etnik": "MAKASAR",
+        "created_at": "2021-05-22T02:15:29.825Z",
+        "updated_at": "2022-08-29T06:54:54.108Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 15,
+    "fields": {
+        "nama_etnik": "MELAYU",
+        "created_at": "2021-05-22T02:15:34.059Z",
+        "updated_at": "2022-08-29T06:54:54.109Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 16,
+    "fields": {
+        "nama_etnik": "MINAHASA",
+        "created_at": "2021-05-22T02:15:37.925Z",
+        "updated_at": "2022-08-29T06:54:54.110Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 17,
+    "fields": {
+        "nama_etnik": "MINANGKABAU",
+        "created_at": "2021-05-22T02:15:42.564Z",
+        "updated_at": "2022-08-29T06:54:54.111Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 18,
+    "fields": {
+        "nama_etnik": "NIAS",
+        "created_at": "2021-05-22T02:15:45.968Z",
+        "updated_at": "2022-08-29T06:54:54.111Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 19,
+    "fields": {
+        "nama_etnik": "PALEMBANG",
+        "created_at": "2021-05-22T02:15:50.144Z",
+        "updated_at": "2022-08-29T06:54:54.112Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 20,
+    "fields": {
+        "nama_etnik": "TIONGHOA",
+        "created_at": "2021-05-22T02:15:58Z",
+        "updated_at": "2022-08-29T06:54:54.113Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 21,
+    "fields": {
+        "nama_etnik": "SASAK",
+        "created_at": "2021-05-22T02:16:04.190Z",
+        "updated_at": "2022-08-29T06:54:54.114Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 22,
+    "fields": {
+        "nama_etnik": "SUNDA",
+        "created_at": "2021-05-22T02:16:06.892Z",
+        "updated_at": "2022-08-29T06:54:54.115Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 23,
+    "fields": {
+        "nama_etnik": "LAINNYA",
+        "created_at": "2021-05-22T02:16:11.317Z",
+        "updated_at": "2022-08-29T06:54:54.116Z"
+    }
+},
+{
+    "model": "data_support.pendidikan",
+    "pk": 1,
+    "fields": {
+        "nama_pendidikan": "SD",
+        "created_at": "2021-05-22T02:08:48.907Z",
+        "updated_at": "2022-08-29T06:55:50.053Z"
+    }
+},
+{
+    "model": "data_support.pendidikan",
+    "pk": 2,
+    "fields": {
+        "nama_pendidikan": "SMP",
+        "created_at": "2021-05-22T02:08:54.733Z",
+        "updated_at": "2022-08-29T06:55:50.056Z"
+    }
+},
+{
+    "model": "data_support.pendidikan",
+    "pk": 3,
+    "fields": {
+        "nama_pendidikan": "SMA/SMU/SPK",
+        "created_at": "2021-05-22T02:09:08.338Z",
+        "updated_at": "2022-08-29T06:55:50.058Z"
+    }
+},
+{
+    "model": "data_support.pendidikan",
+    "pk": 4,
+    "fields": {
+        "nama_pendidikan": "DIPLOMA",
+        "created_at": "2021-05-22T02:11:11.144Z",
+        "updated_at": "2022-08-29T06:55:50.059Z"
+    }
+},
+{
+    "model": "data_support.pendidikan",
+    "pk": 5,
+    "fields": {
+        "nama_pendidikan": "S1",
+        "created_at": "2021-05-22T02:11:14.138Z",
+        "updated_at": "2022-08-29T06:55:50.060Z"
+    }
+},
+{
+    "model": "data_support.pendidikan",
+    "pk": 6,
+    "fields": {
+        "nama_pendidikan": "S2",
+        "created_at": "2021-05-22T02:11:17.924Z",
+        "updated_at": "2022-08-29T06:55:50.062Z"
+    }
+},
+{
+    "model": "data_support.pendidikan",
+    "pk": 7,
+    "fields": {
+        "nama_pendidikan": "S3",
+        "created_at": "2021-05-22T02:11:20.493Z",
+        "updated_at": "2022-08-29T06:55:50.063Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 1,
+    "fields": {
+        "nama_profesi": "PEGAWAI NEGERI/DAERAH/PEMERINTAH/BUMN",
+        "created_at": "2021-05-22T01:10:32.512Z",
+        "updated_at": "2022-08-29T06:56:07.662Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 2,
+    "fields": {
+        "nama_profesi": "TNI/POLRI",
+        "created_at": "2021-05-22T01:11:17.878Z",
+        "updated_at": "2022-08-29T06:56:07.664Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 3,
+    "fields": {
+        "nama_profesi": "PEGAWAI SWASTA",
+        "created_at": "2021-05-22T01:11:53.341Z",
+        "updated_at": "2022-08-29T06:56:07.666Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 4,
+    "fields": {
+        "nama_profesi": "PENSIUNAN - PEGAWAI NEGERI/DAERAH/PEMERINTAH/BUMN/SWASTA",
+        "created_at": "2021-05-22T01:12:05.300Z",
+        "updated_at": "2022-08-29T06:56:07.668Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 5,
+    "fields": {
+        "nama_profesi": "DIREKTUR/KOMISARIS/PENGUSAHA SWASTA",
+        "created_at": "2021-05-22T01:12:14.124Z",
+        "updated_at": "2022-08-29T06:56:07.669Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 6,
+    "fields": {
+        "nama_profesi": "PENGUSAHA KECIL/PETANI/NELAYAN/PENGRAJIN",
+        "created_at": "2021-05-22T01:12:24.021Z",
+        "updated_at": "2022-08-29T06:56:07.671Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 7,
+    "fields": {
+        "nama_profesi": "PENGURUS LEGISLATIF/DPR/DPRD",
+        "created_at": "2021-05-22T01:12:34.641Z",
+        "updated_at": "2022-08-29T06:56:07.672Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 8,
+    "fields": {
+        "nama_profesi": "PENGURUS LSM/PARTAI/ORGANISASI/YAYASAN KEMASYARAKATAN",
+        "created_at": "2021-05-22T01:12:44.373Z",
+        "updated_at": "2022-08-29T06:56:07.673Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 9,
+    "fields": {
+        "nama_profesi": "PENGURUS ORGANISASI/YAYASAN KEAGAMAAN",
+        "created_at": "2021-05-22T01:12:53.452Z",
+        "updated_at": "2022-08-29T06:56:07.675Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 10,
+    "fields": {
+        "nama_profesi": "PRAKTISI/PENEGAK HUKUM (JAKSA, HAKIM, LAWYER, NOTARIS DLL)",
+        "created_at": "2021-05-22T01:13:04.972Z",
+        "updated_at": "2022-08-29T06:56:07.676Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 11,
+    "fields": {
+        "nama_profesi": "PROFESIONAL KESEHATAN/DOKTER",
+        "created_at": "2021-05-22T01:13:17.335Z",
+        "updated_at": "2022-08-29T06:56:07.677Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 12,
+    "fields": {
+        "nama_profesi": "PROFESI PENDIDIKAN - DOSEN/GURU",
+        "created_at": "2021-05-22T01:13:24.621Z",
+        "updated_at": "2022-08-29T06:56:07.678Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 13,
+    "fields": {
+        "nama_profesi": "PROFESIONAL, DESIGNER, ARSITEK, AKUNTAN DAN KONSULTAN LAINNYA",
+        "created_at": "2021-05-22T01:13:34.227Z",
+        "updated_at": "2022-08-29T06:56:07.679Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 14,
+    "fields": {
+        "nama_profesi": "SENIMAN/ARTIS",
+        "created_at": "2021-05-22T01:13:42.275Z",
+        "updated_at": "2022-08-29T06:56:07.680Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 15,
+    "fields": {
+        "nama_profesi": "TENAGA LEPAS/KECIL: BURUH/ASN/SATPAM/SATPOL PP",
+        "created_at": "2021-05-22T01:13:51.128Z",
+        "updated_at": "2022-08-29T06:56:07.681Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 16,
+    "fields": {
+        "nama_profesi": "PELAJAR/MAHASISWA",
+        "created_at": "2021-05-22T01:14:00.195Z",
+        "updated_at": "2022-08-29T06:56:07.682Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 17,
+    "fields": {
+        "nama_profesi": "IBU RUMAH TANGGA",
+        "created_at": "2021-05-22T01:14:22.311Z",
+        "updated_at": "2022-08-29T06:56:07.683Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 18,
+    "fields": {
+        "nama_profesi": "BELUM/TIDAK BEKERJA",
+        "created_at": "2021-05-22T01:14:29.820Z",
+        "updated_at": "2022-08-29T06:56:07.684Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 19,
+    "fields": {
+        "nama_profesi": "LAINNYA",
+        "created_at": "2021-05-22T01:14:40.770Z",
+        "updated_at": "2022-08-29T06:56:07.685Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 1,
+    "fields": {
+        "nama_nob": "EKONOMI, MANAJEMEN DAN KEUANGAN",
+        "created_at": "2021-05-22T01:17:34.898Z",
+        "updated_at": "2022-08-29T06:55:15.032Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 2,
+    "fields": {
+        "nama_nob": "HUKUM",
+        "created_at": "2021-05-22T01:17:39.913Z",
+        "updated_at": "2022-08-29T06:55:15.035Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 3,
+    "fields": {
+        "nama_nob": "TEKNIK - ELEKTRONIK",
+        "created_at": "2021-05-22T01:17:47.729Z",
+        "updated_at": "2022-08-29T06:55:15.036Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 4,
+    "fields": {
+        "nama_nob": "TEKNIK - IT/KOMPUTER",
+        "created_at": "2021-05-22T01:17:54.816Z",
+        "updated_at": "2022-08-29T06:55:15.038Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 5,
+    "fields": {
+        "nama_nob": "TEKNIK - SIPIL",
+        "created_at": "2021-05-22T01:18:02.521Z",
+        "updated_at": "2022-08-29T06:55:15.039Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 6,
+    "fields": {
+        "nama_nob": "TEKNIK - INDUSTRI",
+        "created_at": "2021-05-22T01:18:10.389Z",
+        "updated_at": "2022-08-29T06:55:15.041Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 7,
+    "fields": {
+        "nama_nob": "TEKNIK - ARSITEK/SIPIL",
+        "created_at": "2021-05-22T01:18:26.481Z",
+        "updated_at": "2022-08-29T06:55:15.042Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 8,
+    "fields": {
+        "nama_nob": "TEKNIK - MEKANIKAL",
+        "created_at": "2021-05-22T01:18:55.614Z",
+        "updated_at": "2022-08-29T06:55:15.043Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 9,
+    "fields": {
+        "nama_nob": "TEKNIK - LAINNYA",
+        "created_at": "2021-05-22T01:19:06.391Z",
+        "updated_at": "2022-08-29T06:55:15.045Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 10,
+    "fields": {
+        "nama_nob": "KEDOKTERAN",
+        "created_at": "2021-05-22T01:19:14.443Z",
+        "updated_at": "2022-08-29T06:55:15.046Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 11,
+    "fields": {
+        "nama_nob": "PERTANIAN/PETERNAKAN/PERIKANAN",
+        "created_at": "2021-05-22T01:19:38.153Z",
+        "updated_at": "2022-08-29T06:55:15.047Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 12,
+    "fields": {
+        "nama_nob": "SENI/MUSIK/RUPA",
+        "created_at": "2021-05-22T01:19:49.924Z",
+        "updated_at": "2022-08-29T06:55:15.048Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 13,
+    "fields": {
+        "nama_nob": "POLITIK/PEMERINTAH",
+        "created_at": "2021-05-22T01:19:59.723Z",
+        "updated_at": "2022-08-29T06:55:15.049Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 14,
+    "fields": {
+        "nama_nob": "SEJARAH DAN BUDAYA",
+        "created_at": "2021-05-22T01:20:12.102Z",
+        "updated_at": "2022-08-29T06:55:15.050Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 15,
+    "fields": {
+        "nama_nob": "TRANSPORTASI",
+        "created_at": "2021-05-22T01:20:19.547Z",
+        "updated_at": "2022-08-29T06:55:15.052Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 16,
+    "fields": {
+        "nama_nob": "PERTAHANAN DAN KEAMANAN",
+        "created_at": "2021-05-22T01:20:30.284Z",
+        "updated_at": "2022-08-29T06:55:15.053Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 17,
+    "fields": {
+        "nama_nob": "PERTAMBANGAN DAN PERMINYAKAN",
+        "created_at": "2021-05-22T01:20:37.158Z",
+        "updated_at": "2022-08-29T06:55:15.054Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 18,
+    "fields": {
+        "nama_nob": "PENERBANGAN/PERKAPALAN",
+        "created_at": "2021-05-22T01:21:06.025Z",
+        "updated_at": "2022-08-29T06:55:15.054Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 19,
+    "fields": {
+        "nama_nob": "PERHOTELAN",
+        "created_at": "2021-05-22T01:21:12.524Z",
+        "updated_at": "2022-08-29T06:55:15.055Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 20,
+    "fields": {
+        "nama_nob": "KOMUNIKASI/HUBUNGAN INTERNASIONAL",
+        "created_at": "2021-05-22T01:21:20.059Z",
+        "updated_at": "2022-08-29T06:55:15.056Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 21,
+    "fields": {
+        "nama_nob": "FARMASI DAN KIMIA",
+        "created_at": "2021-05-22T01:21:27.158Z",
+        "updated_at": "2022-08-29T06:55:15.057Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 22,
+    "fields": {
+        "nama_nob": "MATEMATIKA",
+        "created_at": "2021-05-22T01:21:34.324Z",
+        "updated_at": "2022-08-29T06:55:15.058Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 23,
+    "fields": {
+        "nama_nob": "ILMU SOSIAL LAINNYA",
+        "created_at": "2021-05-22T01:21:44.677Z",
+        "updated_at": "2022-08-29T06:55:15.059Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 24,
+    "fields": {
+        "nama_nob": "ILMU PENGETAHUAN ALAM LAINNYA",
+        "created_at": "2021-05-22T01:21:53.865Z",
+        "updated_at": "2022-08-29T06:55:15.060Z"
+    }
+},
+{
+    "model": "data_support.nob",
+    "pk": 25,
+    "fields": {
+        "nama_nob": "LAINNYA",
+        "created_at": "2021-05-22T01:21:57.923Z",
+        "updated_at": "2022-08-29T06:55:15.061Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 1,
+    "fields": {
+        "nama_pelayanan": "PADUAN SUARA",
+        "created_at": "2021-05-22T01:24:35.674Z",
+        "updated_at": "2022-08-29T06:57:02.747Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 2,
+    "fields": {
+        "nama_pelayanan": "PEMUSIK",
+        "created_at": "2021-05-22T01:24:53.954Z",
+        "updated_at": "2022-08-29T06:57:02.750Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 3,
+    "fields": {
+        "nama_pelayanan": "MULTIMEDIA",
+        "created_at": "2021-05-22T01:24:58.569Z",
+        "updated_at": "2022-08-29T06:57:02.752Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 4,
+    "fields": {
+        "nama_pelayanan": "FASILITATOR PA",
+        "created_at": "2021-05-22T01:25:08.594Z",
+        "updated_at": "2022-08-29T06:57:02.753Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 5,
+    "fields": {
+        "nama_pelayanan": "GURU SEKOLAH MINGGU",
+        "created_at": "2021-05-22T01:25:15.593Z",
+        "updated_at": "2022-08-29T06:57:02.754Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 6,
+    "fields": {
+        "nama_pelayanan": "GURU TUNAS REMAJA",
+        "created_at": "2021-05-22T01:25:23.019Z",
+        "updated_at": "2022-08-29T06:57:02.755Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 7,
+    "fields": {
+        "nama_pelayanan": "PEMERHATI",
+        "created_at": "2021-05-22T01:25:29.020Z",
+        "updated_at": "2022-08-29T06:57:02.757Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 8,
+    "fields": {
+        "nama_pelayanan": "KEDUKAAN",
+        "created_at": "2021-05-22T01:25:33.705Z",
+        "updated_at": "2022-08-29T06:57:02.758Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 9,
+    "fields": {
+        "nama_pelayanan": "PARENTING",
+        "created_at": "2021-05-22T01:25:37.441Z",
+        "updated_at": "2022-08-29T06:57:02.759Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 10,
+    "fields": {
+        "nama_pelayanan": "PASUTRI",
+        "created_at": "2021-05-22T01:25:42.247Z",
+        "updated_at": "2022-08-29T06:57:02.761Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 11,
+    "fields": {
+        "nama_pelayanan": "LEKTOR",
+        "created_at": "2021-05-22T01:25:47.890Z",
+        "updated_at": "2022-08-29T06:57:02.762Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 12,
+    "fields": {
+        "nama_pelayanan": "PEMANDU NYANYIAN JEMAAT",
+        "created_at": "2021-05-22T01:25:59.183Z",
+        "updated_at": "2022-08-29T06:57:02.763Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 13,
+    "fields": {
+        "nama_pelayanan": "PEMAZMUR",
+        "created_at": "2021-05-22T01:26:03.289Z",
+        "updated_at": "2022-08-29T06:57:02.765Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 14,
+    "fields": {
+        "nama_pelayanan": "DIAKONIA",
+        "created_at": "2021-05-22T01:26:08.701Z",
+        "updated_at": "2022-08-29T06:57:02.766Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 15,
+    "fields": {
+        "nama_pelayanan": "BIDANG PEMBANGUNAN",
+        "created_at": "2021-05-22T01:26:18.896Z",
+        "updated_at": "2022-08-29T06:57:02.767Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 16,
+    "fields": {
+        "nama_pelayanan": "KLINIK KESEHATAN",
+        "created_at": "2021-05-22T01:26:25.431Z",
+        "updated_at": "2022-08-29T06:57:02.768Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 17,
+    "fields": {
+        "nama_pelayanan": "POS PELAYANAN BANTUAN HUKUM",
+        "created_at": "2021-05-22T01:26:37.304Z",
+        "updated_at": "2022-08-29T06:57:02.769Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 18,
+    "fields": {
+        "nama_pelayanan": "PELAYANAN ANAK BERKEBUTUHAN KHUSUS",
+        "created_at": "2021-05-22T01:26:48.386Z",
+        "updated_at": "2022-08-29T06:57:02.770Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 19,
+    "fields": {
+        "nama_pelayanan": "KEPANITIAAN",
+        "created_at": "2021-05-22T01:26:48.386Z",
+        "updated_at": "2022-08-29T06:57:02.771Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 1,
+    "fields": {
+        "nama_wilayah": "ALAM SUTERA",
+        "created_at": "2021-05-22T11:40:41.970Z",
+        "updated_at": "2021-05-22T11:40:41.970Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 2,
+    "fields": {
+        "nama_wilayah": "ANGGREK LOKA",
+        "created_at": "2021-05-22T11:40:55.692Z",
+        "updated_at": "2021-05-22T11:40:55.692Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 3,
+    "fields": {
+        "nama_wilayah": "BATAN INDAH",
+        "created_at": "2021-05-22T11:40:59.963Z",
+        "updated_at": "2021-05-22T11:40:59.963Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 4,
+    "fields": {
+        "nama_wilayah": "CARDOLYNE",
+        "created_at": "2021-05-22T11:41:08.368Z",
+        "updated_at": "2021-05-22T11:41:08.368Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 5,
+    "fields": {
+        "nama_wilayah": "CAROTA",
+        "created_at": "2021-05-22T11:41:22.734Z",
+        "updated_at": "2021-05-22T11:41:22.734Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 6,
+    "fields": {
+        "nama_wilayah": "DAGO BUARAN",
+        "created_at": "2021-05-22T11:41:26.884Z",
+        "updated_at": "2021-05-22T11:41:26.884Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 7,
+    "fields": {
+        "nama_wilayah": "DELATINOS",
+        "created_at": "2021-05-22T11:41:30.925Z",
+        "updated_at": "2021-05-22T11:41:30.925Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 8,
+    "fields": {
+        "nama_wilayah": "GIRI LOKA",
+        "created_at": "2021-05-22T11:41:36.871Z",
+        "updated_at": "2021-05-22T11:41:36.871Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 9,
+    "fields": {
+        "nama_wilayah": "GRIYA LOKA",
+        "created_at": "2021-05-22T11:41:44.540Z",
+        "updated_at": "2021-05-22T11:41:44.540Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 10,
+    "fields": {
+        "nama_wilayah": "KENCANA LOKA",
+        "created_at": "2021-05-22T11:41:49.515Z",
+        "updated_at": "2021-05-22T11:41:49.515Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 11,
+    "fields": {
+        "nama_wilayah": "MELATI MAS",
+        "created_at": "2021-05-22T11:41:54.273Z",
+        "updated_at": "2021-05-22T11:41:54.273Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 12,
+    "fields": {
+        "nama_wilayah": "NUSA LOKA",
+        "created_at": "2021-05-22T11:42:00.105Z",
+        "updated_at": "2021-05-22T11:42:00.105Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 13,
+    "fields": {
+        "nama_wilayah": "POS JEMAAT CIKOLEANG",
+        "created_at": "2021-05-22T11:42:09.176Z",
+        "updated_at": "2021-05-22T11:42:09.176Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 14,
+    "fields": {
+        "nama_wilayah": "POS JEMAAT PAGEDANGAN",
+        "created_at": "2021-05-22T11:42:16.946Z",
+        "updated_at": "2021-05-22T11:42:16.946Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 15,
+    "fields": {
+        "nama_wilayah": "PUSPITEK",
+        "created_at": "2021-05-22T11:42:20.801Z",
+        "updated_at": "2021-05-22T11:42:20.801Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 16,
+    "fields": {
+        "nama_wilayah": "SURADITA",
+        "created_at": "2021-05-22T11:42:24.972Z",
+        "updated_at": "2021-05-22T11:42:24.972Z"
+    }
+},
+{
+    "model": "data_support.wilayah",
+    "pk": 17,
+    "fields": {
+        "nama_wilayah": "FORESTA",
+        "created_at": "2021-05-22T11:42:24.972Z",
+        "updated_at": "2021-05-22T11:42:24.972Z"
+    }
+}
+]

@@ -1,0 +1,173 @@
+[
+{
+    "model": "data_support.pelayanan",
+    "pk": 1,
+    "fields": {
+        "nama_pelayanan": "Paduan Suara",
+        "created_at": "2021-05-22T01:24:35.674Z",
+        "updated_at": "2021-05-22T01:24:35.674Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 2,
+    "fields": {
+        "nama_pelayanan": "Pemusik",
+        "created_at": "2021-05-22T01:24:53.954Z",
+        "updated_at": "2021-05-22T01:24:53.954Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 3,
+    "fields": {
+        "nama_pelayanan": "Multimedia",
+        "created_at": "2021-05-22T01:24:58.569Z",
+        "updated_at": "2021-05-22T01:24:58.569Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 4,
+    "fields": {
+        "nama_pelayanan": "Fasilitator Pa",
+        "created_at": "2021-05-22T01:25:08.594Z",
+        "updated_at": "2021-05-22T01:25:08.594Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 5,
+    "fields": {
+        "nama_pelayanan": "Guru Sekolah Minggu",
+        "created_at": "2021-05-22T01:25:15.593Z",
+        "updated_at": "2021-05-22T01:25:15.593Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 6,
+    "fields": {
+        "nama_pelayanan": "Guru Tunas Remaja",
+        "created_at": "2021-05-22T01:25:23.019Z",
+        "updated_at": "2021-05-22T01:25:23.019Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 7,
+    "fields": {
+        "nama_pelayanan": "Pemerhati",
+        "created_at": "2021-05-22T01:25:29.020Z",
+        "updated_at": "2021-05-22T01:25:29.020Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 8,
+    "fields": {
+        "nama_pelayanan": "Kedukaan",
+        "created_at": "2021-05-22T01:25:33.705Z",
+        "updated_at": "2021-05-22T01:25:33.705Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 9,
+    "fields": {
+        "nama_pelayanan": "Parenting",
+        "created_at": "2021-05-22T01:25:37.441Z",
+        "updated_at": "2021-05-22T01:25:37.441Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 10,
+    "fields": {
+        "nama_pelayanan": "Pasutri",
+        "created_at": "2021-05-22T01:25:42.247Z",
+        "updated_at": "2021-05-22T01:25:42.247Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 11,
+    "fields": {
+        "nama_pelayanan": "Lektor",
+        "created_at": "2021-05-22T01:25:47.890Z",
+        "updated_at": "2021-05-22T01:25:47.890Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 12,
+    "fields": {
+        "nama_pelayanan": "Pemandu Nyanyian Jemaat",
+        "created_at": "2021-05-22T01:25:59.183Z",
+        "updated_at": "2021-05-22T01:25:59.183Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 13,
+    "fields": {
+        "nama_pelayanan": "Pemazmur",
+        "created_at": "2021-05-22T01:26:03.289Z",
+        "updated_at": "2021-05-22T01:26:03.289Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 14,
+    "fields": {
+        "nama_pelayanan": "Diakonia",
+        "created_at": "2021-05-22T01:26:08.701Z",
+        "updated_at": "2021-05-22T01:26:08.701Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 15,
+    "fields": {
+        "nama_pelayanan": "Bidang Pembangunan",
+        "created_at": "2021-05-22T01:26:18.896Z",
+        "updated_at": "2021-05-22T01:26:18.896Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 16,
+    "fields": {
+        "nama_pelayanan": "Klinik Kesehatan",
+        "created_at": "2021-05-22T01:26:25.431Z",
+        "updated_at": "2021-05-22T01:26:25.431Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 17,
+    "fields": {
+        "nama_pelayanan": "Pos Pelayanan Bantuan Hukum",
+        "created_at": "2021-05-22T01:26:37.304Z",
+        "updated_at": "2021-05-22T01:26:37.304Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 18,
+    "fields": {
+        "nama_pelayanan": "Pelayanan Anak Berkebutuhan Khusus",
+        "created_at": "2021-05-22T01:26:48.386Z",
+        "updated_at": "2021-05-22T01:26:48.387Z"
+    }
+},
+{
+    "model": "data_support.pelayanan",
+    "pk": 19,
+    "fields": {
+        "nama_pelayanan": "Kepanitiaan",
+        "created_at": "2021-05-22T01:26:48.386Z",
+        "updated_at": "2021-05-22T01:26:48.387Z"
+    }
+}
+]

@@ -1,0 +1,3227 @@
+Wilayah: Alam Sutera
+Kelurahan: TANGERANG - KARAWACI - MODERNLAND
+Alamat Before: perum palm semi , jl. palm 9 blok nn no. 32 karawaci
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000039|Ferry Anton Sinaga|ANGGOTA_SIDI|Ferry Anton Sinaga #0000039|Perum Palm Semi , Jl. Palm 9 Blok NN No. 32 Karawaci|TANGERANG - KARAWACI - MODERNLAND|554 8573||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Perum Palm Semi , Jl. Palm 9 Blok NN No. 32 Karawaci
+Prev KK: Ferry Anton Sinaga
+KK After: Ferry Anton Sinaga #0000039
+DOB 1997-05-19
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2001031|Rainer Sabam Christoper Sinaga|ANGGOTA_ANAK|Ferry Anton Sinaga #0000039|Perum Palm Semi , Jl. Palm 9 Blok NN No. 32 Karawaci|TANGERANG - KARAWACI - MODERNLAND|||1997-05-19|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. thamrin kp. warung mangga rt 02 / 02 
+NOMOR
+DOB None
+DARAH O
+PENDIDIKAN SMA/SMU/SPK
+PROFESI Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta
+ETNIK None
+EMAIL 
+True|D0000510|Jan F. Mada|ANGGOTA_SIDI|Jan F. Mada #0000510|Jl. Thamrin Kp. Warung Mangga RT 02 / 02 |TANGERANG - KARAWACI - MODERNLAND|0818 991901|0818 991901|None|MENIKAH|O|RP||ALAM SUTERA|None|SMA/SMU/SPK|Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Thamrin Kp. Warung Mangga RT 02 / 02 
+Prev KK: Jan F. Mada
+KK After: Jan F. Mada #0000510
+DOB None
+DARAH B
+PENDIDIKAN SMA/SMU/SPK
+PROFESI None
+ETNIK Batak
+EMAIL 
+False|D0000511|Rena Pakpahan|ANGGOTA_SIDI|Jan F. Mada #0000510|Jl. Thamrin Kp. Warung Mangga RT 02 / 02 |TANGERANG - KARAWACI - MODERNLAND||0817 762544|None|MENIKAH|B|RP||ALAM SUTERA|Batak|SMA/SMU/SPK|None||Komisi, Panitia, PS
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Thamrin Kp. Warung Mangga RT 02 / 02 
+Prev KK: Jan F. Mada
+KK After: Jan F. Mada #0000510
+DOB None
+DARAH B
+PENDIDIKAN SMA/SMU/SPK
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000170|Kenny Lukas Mada|ANGGOTA_SIDI|Jan F. Mada #0000510|Jl. Thamrin Kp. Warung Mangga RT 02 / 02 |TANGERANG - KARAWACI - MODERNLAND||0819 16386930|None|MENIKAH|B|RP||ALAM SUTERA|None|SMA/SMU/SPK|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Thamrin Kp. Warung Mangga RT 02 / 02 
+Prev KK: Jan F. Mada
+KK After: Jan F. Mada #0000510
+DOB None
+DARAH O
+PENDIDIKAN Diploma
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000563|Janet Citra Maria Mada|ANGGOTA_SIDI|Jan F. Mada #0000510|Jl. Thamrin Kp. Warung Mangga RT 02 / 02 |TANGERANG - KARAWACI - MODERNLAND||0857 81578878|None|MENIKAH|O|RP||ALAM SUTERA|None|Diploma|None||Komisi, Panitia, GSM, PS, Cantor
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Thamrin Kp. Warung Mangga RT 02 / 02 
+Prev KK: Jan F. Mada
+KK After: Jan F. Mada #0000510
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000624|Beci Sarcina Bana|ANGGOTA_SIDI|Jan F. Mada #0000510|Jl. Thamrin Kp. Warung Mangga RT 02 / 02 |TANGERANG - KARAWACI - MODERNLAND||0817762544|None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. tembaga no. 35 perumnas iii karawaci
+NOMOR
+DOB None
+DARAH B
+PENDIDIKAN S2
+PROFESI None
+ETNIK Batak
+EMAIL t06togu@yahoo.com
+True|D0000478|Togu Pardamean Tobing|ANGGOTA_SIDI|Togu Pardamean Tobing #0000478|Jl. Tembaga No. 35 Perumnas III Karawaci|TANGERANG - KARAWACI - MODERNLAND|5565 3649|0818 802657|None|MENIKAH|B|RP|t06togu@yahoo.com|ALAM SUTERA|Batak|S2|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Tembaga No. 35 Perumnas III Karawaci
+Prev KK: Togu Pardamean Tobing
+KK After: Togu Pardamean Tobing #0000478
+DOB None
+DARAH O
+PENDIDIKAN S1
+PROFESI None
+ETNIK Batak
+EMAIL ruthevelinesinaga@yahoo.com
+False|D0000479|Ruth Eveline Sinaga|ANGGOTA_SIDI|Togu Pardamean Tobing #0000478|Jl. Tembaga No. 35 Perumnas III Karawaci|TANGERANG - KARAWACI - MODERNLAND||0818 672657|None|MENIKAH|O|RP|ruthevelinesinaga@yahoo.com|ALAM SUTERA|Batak|S1|None||Lektor
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Tembaga No. 35 Perumnas III Karawaci
+Prev KK: Togu Pardamean Tobing
+KK After: Togu Pardamean Tobing #0000478
+DOB 2011-05-27
+DARAH NN
+PENDIDIKAN None
+PROFESI Pelajar/Mahasiswa
+ETNIK Batak
+EMAIL 
+False|D0000604|Andreas Imanuel Tobing|ANGGOTA_SIDI|Togu Pardamean Tobing #0000478|Jl. Tembaga No. 35 Perumnas III Karawaci|TANGERANG - KARAWACI - MODERNLAND|55653649|085921593039|2011-05-27|MENIKAH|NN|NN||ALAM SUTERA|Batak|None|Pelajar/Mahasiswa||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Tembaga No. 35 Perumnas III Karawaci
+Prev KK: Togu Pardamean Tobing
+KK After: Togu Pardamean Tobing #0000478
+DOB 1994-09-30
+DARAH NN
+PENDIDIKAN None
+PROFESI Pelajar/Mahasiswa
+ETNIK Batak
+EMAIL 
+False|D0000605|Isabelle Renata Tobing|ANGGOTA_SIDI|Togu Pardamean Tobing #0000478|Jl. Tembaga No. 35 Perumnas III Karawaci|TANGERANG - KARAWACI - MODERNLAND|||1994-09-30|MENIKAH|NN|NN||ALAM SUTERA|Batak|None|Pelajar/Mahasiswa||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Tembaga No. 35 Perumnas III Karawaci
+Prev KK: Togu Pardamean Tobing
+KK After: Togu Pardamean Tobing #0000478
+DOB 1996-08-01
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000074|Joshua Syukran Taruli Tobing|ANGGOTA_SIDI|Togu Pardamean Tobing #0000478|Jl. Tembaga No. 35 Perumnas III Karawaci|TANGERANG - KARAWACI - MODERNLAND|||1996-08-01|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Tembaga No. 35 Perumnas III Karawaci
+Prev KK: Togu Pardamean Tobing
+KK After: Togu Pardamean Tobing #0000478
+DOB 2002-05-18
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2004015|Nathaniel Kevin Pardomuan Tobing|ANGGOTA_ANAK|Togu Pardamean Tobing #0000478|Jl. Tembaga No. 35 Perumnas III Karawaci|TANGERANG - KARAWACI - MODERNLAND|||2002-05-18|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kano raya no. 48 bumi kelapa dua karawaci
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000634|Albrian Fumico Hutapea|ANGGOTA_SIDI|Albrian Fumico Hutapea #0000634|Jl. Kano Raya No. 48 Bumi Kelapa Dua Karawaci|TANGERANG - KARAWACI - MODERNLAND|546 4914||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kano Raya No. 48 Bumi Kelapa Dua Karawaci
+Prev KK: Albrian Fumico Hutapea
+KK After: Albrian Fumico Hutapea #0000634
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000635|Mindawati Setiati|ANGGOTA_SIDI|Albrian Fumico Hutapea #0000634|Jl. Kano Raya No. 48 Bumi Kelapa Dua Karawaci|TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kano Raya No. 48 Bumi Kelapa Dua Karawaci
+Prev KK: Albrian Fumico Hutapea
+KK After: Albrian Fumico Hutapea #0000634
+DOB 1996-01-07
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1998038|Naftalia Firstiani Zefania Hutapea|ANGGOTA_ANAK|Albrian Fumico Hutapea #0000634|Jl. Kano Raya No. 48 Bumi Kelapa Dua Karawaci|TANGERANG - KARAWACI - MODERNLAND|||1996-01-07|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kano Raya No. 48 Bumi Kelapa Dua Karawaci
+Prev KK: Albrian Fumico Hutapea
+KK After: Albrian Fumico Hutapea #0000634
+DOB 1999-10-28
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000374|Farrel Jordan Octavian Hutapea|ANGGOTA_SIDI|Albrian Fumico Hutapea #0000634|Jl. Kano Raya No. 48 Bumi Kelapa Dua Karawaci|TANGERANG - KARAWACI - MODERNLAND|||1999-10-28|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. sakura blok ra 11 no. 16 perum dasana indah bonang tangerang
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000016|Tunggul Nainggolan|ANGGOTA_SIDI|Tunggul Nainggolan #0000016|Jl. Sakura Blok RA 11 No. 16 Perum Dasana Indah Bonang Tangerang|TANGERANG - KARAWACI - MODERNLAND|546 3014||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Sakura Blok RA 11 No. 16 Perum Dasana Indah Bonang Tangerang
+Prev KK: Tunggul Nainggolan
+KK After: Tunggul Nainggolan #0000016
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000017|Jane Ellen Sitompul|ANGGOTA_SIDI|Tunggul Nainggolan #0000016|Jl. Sakura Blok RA 11 No. 16 Perum Dasana Indah Bonang Tangerang|TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Sakura Blok RA 11 No. 16 Perum Dasana Indah Bonang Tangerang
+Prev KK: Tunggul Nainggolan
+KK After: Tunggul Nainggolan #0000016
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2001037|Meliza Halary C. Nainggolan|ANGGOTA_ANAK|Tunggul Nainggolan #0000016|Jl. Sakura Blok RA 11 No. 16 Perum Dasana Indah Bonang Tangerang|TANGERANG - KARAWACI - MODERNLAND|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sari bumi indah blok b 2 no. 14 binong curug
+NOMOR
+DOB None
+DARAH A
+PENDIDIKAN S1
+PROFESI Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta
+ETNIK Jawa
+EMAIL hoedijono.simson@gmail.com
+True|D0000803|Hoedijono Simson|ANGGOTA_SIDI|Hoedijono Simson #0000803|Sari Bumi Indah Blok B 2 No. 14 Binong Curug|TANGERANG - KARAWACI - MODERNLAND|598 0443| |None|MENIKAH|A|RP|hoedijono.simson@gmail.com|ALAM SUTERA|Jawa|S1|Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta||MJ, Panitia, Komisi
+Alamat Before: sda
+NOMOR
+Alamat After: Sari Bumi Indah Blok B 2 No. 14 Binong Curug
+Prev KK: Hoedijono Simson
+KK After: Hoedijono Simson #0000803
+DOB None
+DARAH O
+PENDIDIKAN Diploma
+PROFESI None
+ETNIK Jawa
+EMAIL 
+False|D0000805|Windhu Prasetyo|ANGGOTA_SIDI|Hoedijono Simson #0000803|Sari Bumi Indah Blok B 2 No. 14 Binong Curug|TANGERANG - KARAWACI - MODERNLAND||0816 809394|None|MENIKAH|O|RP||ALAM SUTERA|Jawa|Diploma|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sari Bumi Indah Blok B 2 No. 14 Binong Curug
+Prev KK: Hoedijono Simson
+KK After: Hoedijono Simson #0000803
+DOB None
+DARAH A
+PENDIDIKAN S1
+PROFESI None
+ETNIK Jawa
+EMAIL heksimp@gmail.com
+False|D0000806|Heksandri Satrio|ANGGOTA_SIDI|Hoedijono Simson #0000803|Sari Bumi Indah Blok B 2 No. 14 Binong Curug|TANGERANG - KARAWACI - MODERNLAND||0813 14857986|None|MENIKAH|A|RP|heksimp@gmail.com|ALAM SUTERA|Jawa|S1|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sari Bumi Indah Blok B 2 No. 14 Binong Curug
+Prev KK: Hoedijono Simson
+KK After: Hoedijono Simson #0000803
+DOB None
+DARAH A
+PENDIDIKAN S1
+PROFESI None
+ETNIK Jawa
+EMAIL 
+False|D0000443|Yereza Denatyo Simson|ANGGOTA_SIDI|Hoedijono Simson #0000803|Sari Bumi Indah Blok B 2 No. 14 Binong Curug|TANGERANG - KARAWACI - MODERNLAND||0878 84847408|None|MENIKAH|A|RP||ALAM SUTERA|Jawa|S1|None||
+Alamat Before: ligamas regency blok d 6 no. 5 telp. 558 9332
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000435|Koo Giok Hwa Nio |ANGGOTA_SIDI|Koo Giok Hwa Nio #0000435|Ligamas Regency Blok D 6 No. 5 Telp. 558 9332|TANGERANG - KARAWACI - MODERNLAND|(k) 725 8010||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. bougenvile no. 17 kunciran mas ciledug
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000925|Felix Liberto Pesiwarissa|ANGGOTA_SIDI|Felix Liberto Pesiwarissa #0000925|Jl. Bougenvile No. 17 Kunciran Mas Ciledug|TANGERANG - KARAWACI - MODERNLAND|731 5748||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Bougenvile No. 17 Kunciran Mas Ciledug
+Prev KK: Felix Liberto Pesiwarissa
+KK After: Felix Liberto Pesiwarissa #0000925
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000926|Desembra Conny P.|ANGGOTA_SIDI|Felix Liberto Pesiwarissa #0000925|Jl. Bougenvile No. 17 Kunciran Mas Ciledug|TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. m. siban rt 02 / 14 no. 33 kunciran mas
+NOMOR
+DOB None
+DARAH B
+PENDIDIKAN SMA/SMU/SPK
+PROFESI None
+ETNIK Jawa
+EMAIL 
+True|D0000657|Sumanto|ANGGOTA_SIDI|Sumanto #0000657|Jl. M. Siban RT 02 / 14 No. 33 Kunciran Mas|TANGERANG - KARAWACI - MODERNLAND||0815 8807463|None|MENIKAH|B|RP||ALAM SUTERA|Jawa|SMA/SMU/SPK|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. M. Siban RT 02 / 14 No. 33 Kunciran Mas
+Prev KK: Sumanto
+KK After: Sumanto #0000657
+DOB 2002-09-27
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2003015|Daniel Septian Ardana|ANGGOTA_ANAK|Sumanto #0000657|Jl. M. Siban RT 02 / 14 No. 33 Kunciran Mas|TANGERANG - KARAWACI - MODERNLAND|||2002-09-27|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. M. Siban RT 02 / 14 No. 33 Kunciran Mas
+Prev KK: Sumanto
+KK After: Sumanto #0000657
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2011069|Natanael Putra Atmanto|ANGGOTA_ANAK|Sumanto #0000657|Jl. M. Siban RT 02 / 14 No. 33 Kunciran Mas|TANGERANG - KARAWACI - MODERNLAND|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. M. Siban RT 02 / 14 No. 33 Kunciran Mas
+Prev KK: Sumanto
+KK After: Sumanto #0000657
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2011070|Debora Shella Try Olivia|ANGGOTA_ANAK|Sumanto #0000657|Jl. M. Siban RT 02 / 14 No. 33 Kunciran Mas|TANGERANG - KARAWACI - MODERNLAND|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: perum mutiara garuda blok e 1 no. 3 kp. melayu
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000823|Kartasius Ngawi|ANGGOTA_SIDI|Kartasius Ngawi #0000823|Perum Mutiara Garuda Blok E 1 No. 3 Kp. Melayu|TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Perum Mutiara Garuda Blok E 1 No. 3 Kp. Melayu
+Prev KK: Kartasius Ngawi
+KK After: Kartasius Ngawi #0000823
+DOB 1997-05-21
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1998007|Katherina Maisie Ngawi|ANGGOTA_ANAK|Kartasius Ngawi #0000823|Perum Mutiara Garuda Blok E 1 No. 3 Kp. Melayu|TANGERANG - KARAWACI - MODERNLAND|||1997-05-21|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. bumi pancasila no. 18 rt 005/05 jagakarsa
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000302|Ridwan Sahat Maruli Sipayung|ANGGOTA_SIDI|Ridwan Sahat Maruli Sipayung #0000302|Jl. Bumi Pancasila No. 18 RT 005/05 Jagakarsa|TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: dasana permai blok ra ii no. 16 bonang, tng 
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000555|Sukmawati|ANGGOTA_SIDI|Sukmawati #0000555|Dasana Permai Blok RA II No. 16 Bonang, Tng |TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: perum pondok arum blok e 2 no. 10 tng.
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000562|Irina Elly Puspasari|ANGGOTA_SIDI|Irina Elly Puspasari #0000562|Perum Pondok Arum Blok E 2 No. 10 Tng.|TANGERANG - KARAWACI - MODERNLAND|558 8149||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before:  jl. cakra v no. 55 serang 
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000565|Jimmy Febrian Cahyadi|ANGGOTA_SIDI|Jimmy Febrian Cahyadi #0000565| Jl. Cakra V No. 55 Serang |TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. dokol, depan sekolah lourensia, tangerang
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000361|Sri Istiyawati|ANGGOTA_SIDI|Sri Istiyawati #0000361|Jl. Dokol, Depan Sekolah Lourensia, Tangerang|TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: rusunami modernland, tower hijau gh 9 hb tng
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000374|Callista Philana E.S.|ANGGOTA_SIDI|Callista Philana E.S. #0000374|Rusunami Modernland, Tower Hijau GH 9 HB Tng|TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: uph dormitory - lippo karawaci
+NOMOR
+DOB 1991-04-08
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000602|Adhika Ayu Pratisthita|ANGGOTA_SIDI|Adhika Ayu Pratisthita #0000602|UPH Dormitory - Lippo Karawaci|TANGERANG - KARAWACI - MODERNLAND||081999038858|1991-04-08|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. karet pedurenan masjid no. 8 a jakarta selatan
+NOMOR
+DOB 1990-08-01
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000603|Adinda Claudy Vinisyia Paulin|ANGGOTA_SIDI|Adinda Claudy Vinisyia Paulin #0000603|Jl. Karet Pedurenan Masjid No. 8 A Jakarta Selatan|TANGERANG - KARAWACI - MODERNLAND|91104721||1990-08-01|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. buana asri f1 no. 40 buana garden blok f ciledug
+NOMOR
+DOB 1942-04-01
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000724|Sri Winarni|ANGGOTA_SIDI|Sri Winarni #0000724|Jl. Buana Asri F1 No. 40 Buana Garden Blok F Ciledug|TANGERANG - KARAWACI - MODERNLAND|||1942-04-01|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Buana Asri F1 No. 40 Buana Garden Blok F Ciledug
+Prev KK: Sri Winarni
+KK After: Sri Winarni #0000724
+DOB 1966-06-28
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000835|Martha Prasetyani|ANGGOTA_SIDI|Sri Winarni #0000724|Jl. Buana Asri F1 No. 40 Buana Garden Blok F Ciledug|TANGERANG - KARAWACI - MODERNLAND|||1966-06-28|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: metro permata i blok d 3 no. 10-11 karang mulia ciledug tangerang
+NOMOR
+DOB 1946-02-22
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000142|Dinatiar Suwito S. |ANGGOTA_SIDI|Dinatiar Suwito S. #0000142|Metro Permata I Blok D 3 No. 10-11 Karang Mulia Ciledug Tangerang|TANGERANG - KARAWACI - MODERNLAND|||1946-02-22|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Metro Permata I Blok D 3 No. 10-11 Karang Mulia Ciledug Tangerang
+Prev KK: Dinatiar Suwito S
+KK After: Dinatiar Suwito S. #0000142
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000881|Ivan S. Thenu|ANGGOTA_SIDI|Dinatiar Suwito S. #0000142|Metro Permata I Blok D 3 No. 10-11 Karang Mulia Ciledug Tangerang|TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Metro Permata I Blok D 3 No. 10-11 Karang Mulia Ciledug Tangerang
+Prev KK: Dinatiar Suwito S
+KK After: Dinatiar Suwito S. #0000142
+DOB 1978-03-31
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000143|Nidya Puspasari Suwito|ANGGOTA_SIDI|Dinatiar Suwito S. #0000142|Metro Permata I Blok D 3 No. 10-11 Karang Mulia Ciledug Tangerang|TANGERANG - KARAWACI - MODERNLAND|||1978-03-31|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: komp. paninggilan permai jl. nanas blok oo no. 7 ciledug
+NOMOR
+DOB 1943-06-14
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000043|Kamidjo Herusulistyo|ANGGOTA_SIDI|Kamidjo Herusulistyo #0000043|Komp. Paninggilan Permai Jl. Nanas Blok OO No. 7 Ciledug|TANGERANG - KARAWACI - MODERNLAND|7311058||1943-06-14|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Komp. Paninggilan Permai Jl. Nanas Blok OO No. 7 Ciledug
+Prev KK: Kamidjo Herusulistyo
+KK After: Kamidjo Herusulistyo #0000043
+DOB 1955-11-13
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000044|Tuti Nurnaningsih|ANGGOTA_SIDI|Kamidjo Herusulistyo #0000043|Komp. Paninggilan Permai Jl. Nanas Blok OO No. 7 Ciledug|TANGERANG - KARAWACI - MODERNLAND|||1955-11-13|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Komp. Paninggilan Permai Jl. Nanas Blok OO No. 7 Ciledug
+Prev KK: Kamidjo Herusulistyo
+KK After: Kamidjo Herusulistyo #0000043
+DOB 1984-01-19
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2014008|Putri Astuti|ANGGOTA_ANAK|Kamidjo Herusulistyo #0000043|Komp. Paninggilan Permai Jl. Nanas Blok OO No. 7 Ciledug|TANGERANG - KARAWACI - MODERNLAND|||1984-01-19|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. permata no. 7 menceng jakarta barat
+NOMOR
+DOB 1986-07-20
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK Betawi
+EMAIL 
+True|D0000930|Munawati|ANGGOTA_SIDI|Munawati #0000930|Jl. Permata No. 7 Menceng Jakarta Barat|TANGERANG - KARAWACI - MODERNLAND|||1986-07-20|MENIKAH|NN|NN||ALAM SUTERA|Betawi|None|None||
+Alamat Before: benua indah blok d 1 no. 6 tangerang
+NOMOR
+DOB 1981-09-27
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000988|M. Ferdiyan|ANGGOTA_SIDI|M. Ferdiyan #0000988|Benua Indah Blok D 1 No. 6 Tangerang|TANGERANG - KARAWACI - MODERNLAND||0812 84142229|1981-09-27|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: bugel residence blok e no. 11 tangerang
+NOMOR
+DOB 1991-06-21
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000163|Mario Wijaya|ANGGOTA_SIDI|Mario Wijaya #0000163|Bugel Residence Blok E No. 11 Tangerang|TANGERANG - KARAWACI - MODERNLAND|||1991-06-21|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. bidar iii kelapa dua no.12
+NOMOR
+DOB 1982-09-25
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000261|Siska Puspitarini|ANGGOTA_SIDI|Siska Puspitarini #0000261|Jl. Bidar III Kelapa dua No.12|TANGERANG - KARAWACI - MODERNLAND||085710063082|1982-09-25|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kh. mas mansyur rt.06/010 no.5, kunciran indah
+NOMOR
+DOB 1973-05-18
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000566|Simon Freddy Laisina|ANGGOTA_SIDI|Simon Freddy Laisina #0000566|Jl. KH. Mas Mansyur RT.06/010 No.5, Kunciran Indah|TANGERANG - KARAWACI - MODERNLAND||0821 13602323|1973-05-18|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. KH. Mas Mansyur RT.06/010 No.5, Kunciran Indah
+Prev KK: Simon Freddy Laisina
+KK After: Simon Freddy Laisina #0000566
+DOB 1980-03-23
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000567|Wahyuningsih|ANGGOTA_SIDI|Simon Freddy Laisina #0000566|Jl. KH. Mas Mansyur RT.06/010 No.5, Kunciran Indah|TANGERANG - KARAWACI - MODERNLAND|||1980-03-23|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. KH. Mas Mansyur RT.06/010 No.5, Kunciran Indah
+Prev KK: Simon Freddy Laisina
+KK After: Simon Freddy Laisina #0000566
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000568|Masriwayati |ANGGOTA_SIDI|Simon Freddy Laisina #0000566|Jl. KH. Mas Mansyur RT.06/010 No.5, Kunciran Indah|TANGERANG - KARAWACI - MODERNLAND|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. KH. Mas Mansyur RT.06/010 No.5, Kunciran Indah
+Prev KK: Simon Freddy Laisina
+KK After: Simon Freddy Laisina #0000566
+DOB 2008-09-01
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2016029|Ajeng Ayu Sharifa Laisina|ANGGOTA_ANAK|Simon Freddy Laisina #0000566|Jl. KH. Mas Mansyur RT.06/010 No.5, Kunciran Indah|TANGERANG - KARAWACI - MODERNLAND|||2008-09-01|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. KH. Mas Mansyur RT.06/010 No.5, Kunciran Indah
+Prev KK: Simon Freddy Laisina
+KK After: Simon Freddy Laisina #0000566
+DOB 2010-05-29
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2018016|Daniel Dharma Laisina|ANGGOTA_ANAK|Simon Freddy Laisina #0000566|Jl. KH. Mas Mansyur RT.06/010 No.5, Kunciran Indah|TANGERANG - KARAWACI - MODERNLAND|||2010-05-29|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. komando raya 18 karet - jakarta selatan
+NOMOR
+DOB 1990-07-06
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000665|Rotua Citra A. Lumban Gaol|ANGGOTA_SIDI|Rotua Citra A. Lumban Gaol #0000665|Jl. Komando Raya 18 Karet - Jakarta Selatan|TANGERANG - KARAWACI - MODERNLAND||081287303476|1990-07-06|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Kelurahan: DUTA BINTARO
+Alamat Before: duta bintaro blok d 24 no. 1
+NOMOR
+DOB 1992-02-21
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000862|Susatia Budi Tama|ANGGOTA_SIDI|Susatia Budi Tama #0000862|Duta Bintaro Blok D 24 No. 1|DUTA BINTARO||085715477734|1992-02-21|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: duta bintaro blok e 15 no. 5
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000223|Hosiana Kusuma Adiningrum|ANGGOTA_SIDI|Hosiana Kusuma Adiningrum #0000223|Duta Bintaro Blok E 15 No. 5|DUTA BINTARO|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: duta bintaro cluster nusadua blok f 7 no. 5
+NOMOR
+DOB 1980-01-24
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000991|Aldi Priyo Wibowo|ANGGOTA_SIDI|Aldi Priyo Wibowo #0000991|Duta Bintaro Cluster Nusadua Blok F 7 No. 5|DUTA BINTARO||0877 75570980|1980-01-24|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Duta Bintaro Cluster Nusadua Blok F 7 No. 5
+Prev KK: Aldi Priyo Wibowo
+KK After: Aldi Priyo Wibowo #0000991
+DOB 1981-06-16
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000992|Henny Carolina Julianty Klomanghitis|ANGGOTA_SIDI|Aldi Priyo Wibowo #0000991|Duta Bintaro Cluster Nusadua Blok F 7 No. 5|DUTA BINTARO|||1981-06-16|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Duta Bintaro Cluster Nusadua Blok F 7 No. 5
+Prev KK: Aldi Priyo Wibowo
+KK After: Aldi Priyo Wibowo #0000991
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2013081|Jetta Alleyaiesha Wibowo|ANGGOTA_ANAK|Aldi Priyo Wibowo #0000991|Duta Bintaro Cluster Nusadua Blok F 7 No. 5|DUTA BINTARO|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: perum duta bintaro blok f 14 no. 10 pinang tangerang  
+NOMOR
+DOB None
+DARAH B
+PENDIDIKAN SMA/SMU/SPK
+PROFESI None
+ETNIK Jawa
+EMAIL bambangjayaabadi@yahoo.co.id
+True|D0000192|Bambang Trisno Yuwono|ANGGOTA_SIDI|Bambang Trisno Yuwono #0000192|Perum Duta Bintaro Blok F 14 No. 10 Pinang Tangerang  |DUTA BINTARO|5312 9302|9201 9071|None|MENIKAH|B|RP|bambangjayaabadi@yahoo.co.id|ALAM SUTERA|Jawa|SMA/SMU/SPK|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Perum Duta Bintaro Blok F 14 No. 10 Pinang Tangerang  
+Prev KK: Bambang Trisno Yuwono
+KK After: Bambang Trisno Yuwono #0000192
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008084|Dewa Perdana Putra Yuwono  |ANGGOTA_ANAK|Bambang Trisno Yuwono #0000192|Perum Duta Bintaro Blok F 14 No. 10 Pinang Tangerang  |DUTA BINTARO|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Perum Duta Bintaro Blok F 14 No. 10 Pinang Tangerang  
+Prev KK: Bambang Trisno Yuwono
+KK After: Bambang Trisno Yuwono #0000192
+DOB 2011-10-17
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2012022|Thiara Yuanita Christabelle|ANGGOTA_ANAK|Bambang Trisno Yuwono #0000192|Perum Duta Bintaro Blok F 14 No. 10 Pinang Tangerang  |DUTA BINTARO|||2011-10-17|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: graha bunga 7 no. 2 pondok kacang bintaro
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000265|Welfried Piterman Napitupulu|ANGGOTA_SIDI|Welfried Piterman Napitupulu #0000265|Graha Bunga 7 No. 2 Pondok Kacang Bintaro|DUTA BINTARO|6827 3092||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Graha Bunga 7 No. 2 Pondok Kacang Bintaro
+Prev KK: Welfried Piterman Napitupulu
+KK After: Welfried Piterman Napitupulu #0000265
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000266|E s t h e r|ANGGOTA_SIDI|Welfried Piterman Napitupulu #0000265|Graha Bunga 7 No. 2 Pondok Kacang Bintaro|DUTA BINTARO|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Graha Bunga 7 No. 2 Pondok Kacang Bintaro
+Prev KK: Welfried Piterman Napitupulu
+KK After: Welfried Piterman Napitupulu #0000265
+DOB 2012-05-12
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2012039|Vincent Enoch Napitupulu|ANGGOTA_ANAK|Welfried Piterman Napitupulu #0000265|Graha Bunga 7 No. 2 Pondok Kacang Bintaro|DUTA BINTARO|||2012-05-12|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: neo permata blok b no. 29 bintaro sektor 9 tng
+NOMOR
+DOB 1976-06-29
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000780|Manahan Immanuel Sianturi|ANGGOTA_SIDI|Manahan Immanuel Sianturi #0000780|Neo Permata Blok B No. 29 Bintaro Sektor 9 Tng|DUTA BINTARO|2923 7923||1976-06-29|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Neo Permata Blok B No. 29 Bintaro Sektor 9 Tng
+Prev KK: Manahan Immanuel Sianturi
+KK After: Manahan Immanuel Sianturi #0000780
+DOB 1975-12-06
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000781|Joice Gabriella Siahaan|ANGGOTA_SIDI|Manahan Immanuel Sianturi #0000780|Neo Permata Blok B No. 29 Bintaro Sektor 9 Tng|DUTA BINTARO|||1975-12-06|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Neo Permata Blok B No. 29 Bintaro Sektor 9 Tng
+Prev KK: Manahan Immanuel Sianturi
+KK After: Manahan Immanuel Sianturi #0000780
+DOB 2012-04-22
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2013070|Emmanuella Jocelynn Gracia Sianturi|ANGGOTA_ANAK|Manahan Immanuel Sianturi #0000780|Neo Permata Blok B No. 29 Bintaro Sektor 9 Tng|DUTA BINTARO|||2012-04-22|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Neo Permata Blok B No. 29 Bintaro Sektor 9 Tng
+Prev KK: Manahan Immanuel Sianturi
+KK After: Manahan Immanuel Sianturi #0000780
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2014043|Ethan Mozes Andreas Sianturi|ANGGOTA_ANAK|Manahan Immanuel Sianturi #0000780|Neo Permata Blok B No. 29 Bintaro Sektor 9 Tng|DUTA BINTARO|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. bintaro utama 5 blok ed 1 no. 12 baintaro jaya
+NOMOR
+DOB 1997-09-22
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000101|Kevin Evano Irawan|ANGGOTA_SIDI|Kevin Evano Irawan #0000101|Jl. Bintaro Utama 5 Blok ED 1 No. 12 Baintaro Jaya|DUTA BINTARO||0818 08199307|1997-09-22|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: perum duta bintaro cluster sanur blok e17/12
+NOMOR
+DOB 1978-04-16
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK Jawa
+EMAIL 
+True|D0000661|Laksono Hari Wiwoho|ANGGOTA_SIDI|Laksono Hari Wiwoho #0000661|Perum Duta Bintaro Cluster Sanur Blok E17/12|DUTA BINTARO||08179825749|1978-04-16|MENIKAH|NN|NN||ALAM SUTERA|Jawa|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Perum Duta Bintaro Cluster Sanur Blok E17/12
+Prev KK: Laksono Hari Wiwoho
+KK After: Laksono Hari Wiwoho #0000661
+DOB 1982-11-04
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000662|Dyah Ayu Pramesti |ANGGOTA_SIDI|Laksono Hari Wiwoho #0000661|Perum Duta Bintaro Cluster Sanur Blok E17/12|DUTA BINTARO|||1982-11-04|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Perum Duta Bintaro Cluster Sanur Blok E17/12
+Prev KK: Laksono Hari Wiwoho
+KK After: Laksono Hari Wiwoho #0000661
+DOB 2008-02-13
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2017013|Nathaniel Satrio Wicaksono|ANGGOTA_ANAK|Laksono Hari Wiwoho #0000661|Perum Duta Bintaro Cluster Sanur Blok E17/12|DUTA BINTARO|||2008-02-13|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Perum Duta Bintaro Cluster Sanur Blok E17/12
+Prev KK: Laksono Hari Wiwoho
+KK After: Laksono Hari Wiwoho #0000661
+DOB 2012-06-20
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2017014|Aaron Haryo Seno|ANGGOTA_ANAK|Laksono Hari Wiwoho #0000661|Perum Duta Bintaro Cluster Sanur Blok E17/12|DUTA BINTARO|||2012-06-20|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Kelurahan: LIPPO KARAWACI
+Alamat Before: taman ubud indah vi no. 62
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000084|Jesianto Nugroho|ANGGOTA_SIDI|Jesianto Nugroho #0000084|Taman Ubud Indah VI No. 62|LIPPO KARAWACI|594 90040||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||Pindah ke Singapore - rumah dijual
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Ubud Indah VI No. 62
+Prev KK: Jesianto Nugroho
+KK After: Jesianto Nugroho #0000084
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000894|Lisa Carmelita Coutrier|ANGGOTA_SIDI|Jesianto Nugroho #0000084|Taman Ubud Indah VI No. 62|LIPPO KARAWACI|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: taman ubud kencana vii no. 39
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000726|Dedy Martono|ANGGOTA_SIDI|Dedy Martono #0000726|Taman Ubud Kencana VII No. 39|LIPPO KARAWACI|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||sudah Beribadah di GKI Gading Serpong
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Ubud Kencana VII No. 39
+Prev KK: Dedy Martono
+KK After: Dedy Martono #0000726
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000727|Kesti Prasetiawati|ANGGOTA_SIDI|Dedy Martono #0000726|Taman Ubud Kencana VII No. 39|LIPPO KARAWACI|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Ubud Kencana VII No. 39
+Prev KK: Dedy Martono
+KK After: Dedy Martono #0000726
+DOB 1999-06-28
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1999013|Enrico Christian|ANGGOTA_ANAK|Dedy Martono #0000726|Taman Ubud Kencana VII No. 39|LIPPO KARAWACI|||1999-06-28|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Ubud Kencana VII No. 39
+Prev KK: Dedy Martono
+KK After: Dedy Martono #0000726
+DOB 2001-03-27
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2002007|Erica Christiana|ANGGOTA_ANAK|Dedy Martono #0000726|Taman Ubud Kencana VII No. 39|LIPPO KARAWACI|||2001-03-27|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: taman okinawa no. 32 
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000357|Andi Sundah|ANGGOTA_SIDI|Andi Sundah #0000357|Taman Okinawa No. 32 |LIPPO KARAWACI|70286718||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Okinawa No. 32 
+Prev KK: Andi Sundah
+KK After: Andi Sundah #0000357
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000412|Yahya Sundah|ANGGOTA_SIDI|Andi Sundah #0000357|Taman Okinawa No. 32 |LIPPO KARAWACI|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Okinawa No. 32 
+Prev KK: Andi Sundah
+KK After: Andi Sundah #0000357
+DOB 1996-04-13
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1996015|Naomi Riandiputri|ANGGOTA_ANAK|Andi Sundah #0000357|Taman Okinawa No. 32 |LIPPO KARAWACI|||1996-04-13|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: taman permata parahyangan v no. 17
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000510|Inawati Widjaja|ANGGOTA_SIDI|Jan F. Mada #0000510|Taman Permata Parahyangan V No. 17|LIPPO KARAWACI|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: taman permata milenium, jl. permata kasih i blok c 10 / 11 
+NOMOR
+DOB None
+DARAH O
+PENDIDIKAN Diploma
+PROFESI Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta
+ETNIK Tionghoa
+EMAIL ekarwanto@yahoo.co.id
+True|D0000724|Budhi Karwanto|ANGGOTA_SIDI|Sri Winarni #0000724|Taman Permata Milenium, Jl. Permata Kasih I Blok C 10 / 11 |LIPPO KARAWACI|5565 0175|0818 195567|None|MENIKAH|O|RP|ekarwanto@yahoo.co.id|ALAM SUTERA|Tionghoa|Diploma|Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta||
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Permata Milenium, Jl. Permata Kasih I Blok C 10 / 11 
+Prev KK: Budhi Karwanto
+KK After: Sri Winarni #0000724
+DOB None
+DARAH B
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL 
+False|D0000725|Ekawati Untario|ANGGOTA_SIDI|Sri Winarni #0000724|Taman Permata Milenium, Jl. Permata Kasih I Blok C 10 / 11 |LIPPO KARAWACI|0816 903791|3239 0907|None|MENIKAH|B|RP||ALAM SUTERA|Tionghoa|S1|None||GSM, PS
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Permata Milenium, Jl. Permata Kasih I Blok C 10 / 11 
+Prev KK: Budhi Karwanto
+KK After: Sri Winarni #0000724
+DOB 1998-12-08
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1999009|Yuana Yesika|ANGGOTA_ANAK|Sri Winarni #0000724|Taman Permata Milenium, Jl. Permata Kasih I Blok C 10 / 11 |LIPPO KARAWACI|||1998-12-08|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Permata Milenium, Jl. Permata Kasih I Blok C 10 / 11 
+Prev KK: Budhi Karwanto
+KK After: Sri Winarni #0000724
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2001042|Hans Budiman Karwanto|ANGGOTA_ANAK|Sri Winarni #0000724|Taman Permata Milenium, Jl. Permata Kasih I Blok C 10 / 11 |LIPPO KARAWACI|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Permata Milenium, Jl. Permata Kasih I Blok C 10 / 11 
+Prev KK: Budhi Karwanto
+KK After: Sri Winarni #0000724
+DOB 2003-01-28
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2003037|Jean Rebeka|ANGGOTA_ANAK|Sri Winarni #0000724|Taman Permata Milenium, Jl. Permata Kasih I Blok C 10 / 11 |LIPPO KARAWACI|||2003-01-28|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: taman pattaya i no. 15 lippo karawaci
+NOMOR
+DOB 1993-06-07
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000884|Priska Yunianti|ANGGOTA_SIDI|Priska Yunianti #0000884|Taman Pattaya I No. 15 Lippo Karawaci|LIPPO KARAWACI||0811165779|1993-06-07|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Pattaya I No. 15 Lippo Karawaci
+Prev KK: Priska Yunianti
+KK After: Priska Yunianti #0000884
+DOB 1994-07-18
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000885|Kevin Yulianto|ANGGOTA_SIDI|Priska Yunianti #0000884|Taman Pattaya I No. 15 Lippo Karawaci|LIPPO KARAWACI||08119880590|1994-07-18|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Kelurahan: GRAHA RAYA BINTARO
+Alamat Before: grha raya bintaro clust. anggrek loka a 3 / 35a
+NOMOR
+DOB None
+DARAH O
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL andhikas@gmail.com
+True|D0000166|Andhika Setiawan|ANGGOTA_SIDI|Andhika Setiawan #0000166|Grha Raya Bintaro Clust. Anggrek Loka A 3 / 35A|GRAHA RAYA BINTARO|5312 4794|0816 1895282|None|MENIKAH|O|RP|andhikas@gmail.com|ALAM SUTERA|Tionghoa|S1|None||Panitia, PS
+Alamat Before: sda
+NOMOR
+Alamat After: Grha Raya Bintaro Clust. Anggrek Loka A 3 / 35A
+Prev KK: Andhika Setiawan
+KK After: Andhika Setiawan #0000166
+DOB None
+DARAH A
+PENDIDIKAN Diploma
+PROFESI None
+ETNIK Jawa
+EMAIL sisca_silvi@yahoo.com
+False|D0000167|Fransisca Selviana|ANGGOTA_SIDI|Andhika Setiawan #0000166|Grha Raya Bintaro Clust. Anggrek Loka A 3 / 35A|GRAHA RAYA BINTARO|||None|MENIKAH|A|RP|sisca_silvi@yahoo.com|ALAM SUTERA|Jawa|Diploma|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Grha Raya Bintaro Clust. Anggrek Loka A 3 / 35A
+Prev KK: Andhika Setiawan
+KK After: Andhika Setiawan #0000166
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008053|Darryl Cornelius Setiawan|ANGGOTA_ANAK|Andhika Setiawan #0000166|Grha Raya Bintaro Clust. Anggrek Loka A 3 / 35A|GRAHA RAYA BINTARO|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda 
+NOMOR
+Alamat After: Grha Raya Bintaro Clust. Anggrek Loka A 3 / 35A
+Prev KK: Andhika Setiawan
+KK After: Andhika Setiawan #0000166
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008082|Kiska Patricia Angel Setiawan|ANGGOTA_ANAK|Andhika Setiawan #0000166|Grha Raya Bintaro Clust. Anggrek Loka A 3 / 35A|GRAHA RAYA BINTARO|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: blok a 3 no. 43
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000896|Liz Shirley|ANGGOTA_SIDI|Liz Shirley #0000896|Blok A 3 No. 43|GRAHA RAYA BINTARO|731 5061||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Blok A 3 No. 43
+Prev KK: Liz Shirley
+KK After: Liz Shirley #0000896
+DOB 1989-06-14
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2000034|Andrew Kumala|ANGGOTA_ANAK|Liz Shirley #0000896|Blok A 3 No. 43|GRAHA RAYA BINTARO|||1989-06-14|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Blok A 3 No. 43
+Prev KK: Liz Shirley
+KK After: Liz Shirley #0000896
+DOB 1991-08-15
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2000033|Bernard Kumala|ANGGOTA_ANAK|Liz Shirley #0000896|Blok A 3 No. 43|GRAHA RAYA BINTARO|||1991-08-15|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: blok a 5 no. 9
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000482|Ario Budi Santoso|ANGGOTA_SIDI|Ario Budi Santoso #0000482|Blok A 5 No. 9|GRAHA RAYA BINTARO|731 8787||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Blok A 5 No. 9
+Prev KK: Ario Budi Santoso
+KK After: Ario Budi Santoso #0000482
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000483|Nila Widyajanti|ANGGOTA_SIDI|Ario Budi Santoso #0000482|Blok A 5 No. 9|GRAHA RAYA BINTARO|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Blok A 5 No. 9
+Prev KK: Ario Budi Santoso
+KK After: Ario Budi Santoso #0000482
+DOB 1997-09-30
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2004054|Jennifer Larasati Putri|ANGGOTA_ANAK|Ario Budi Santoso #0000482|Blok A 5 No. 9|GRAHA RAYA BINTARO|||1997-09-30|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: graha raya cluster carissa blok b no. 16
+NOMOR
+DOB 1973-05-06
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000541|Fenny Aji Fondana|ANGGOTA_SIDI|Fenny Aji Fondana #0000541|Graha Raya Cluster Carissa Blok B No. 16|GRAHA RAYA BINTARO||081674233075|1973-05-06|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: graha raya cluster celesta blok c no. 7
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000315|Yunanto Dwi Nugroho|ANGGOTA_SIDI|Yunanto Dwi Nugroho #0000315|Graha Raya Cluster Celesta Blok C No. 7|GRAHA RAYA BINTARO|081385500135||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Graha Raya Cluster Celesta Blok C No. 7
+Prev KK: Yunanto Dwi Nugroho
+KK After: Yunanto Dwi Nugroho #0000315
+DOB 2009-12-03
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2012034|Christabel Syalom Nugroho|ANGGOTA_ANAK|Yunanto Dwi Nugroho #0000315|Graha Raya Cluster Celesta Blok C No. 7|GRAHA RAYA BINTARO|||2009-12-03|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: graha raya "celesta" blok d no. 12
+NOMOR
+DOB 1982-01-08
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000921|Donny Dwi Maulidawan Putra|ANGGOTA_SIDI|Donny Dwi Maulidawan Putra #0000921|Graha Raya "Celesta" Blok D No. 12|GRAHA RAYA BINTARO||0818 07849005|1982-01-08|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: graha raya bintaro blok e 8 no. 5
+NOMOR
+DOB 1959-09-03
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000650|Harianto|ANGGOTA_SIDI|Harianto #0000650|Graha Raya Bintaro Blok E 8 No. 5|GRAHA RAYA BINTARO|5312 6115||1959-09-03|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Graha Raya Bintaro Blok E 8 No. 5
+Prev KK: Harianto
+KK After: Harianto #0000650
+DOB 1994-10-10
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000750|Yosephine Ivy S.|ANGGOTA_SIDI|Harianto #0000650|Graha Raya Bintaro Blok E 8 No. 5|GRAHA RAYA BINTARO||085714691236|1994-10-10|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Graha Raya Bintaro Blok E 8 No. 5
+Prev KK: Harianto
+KK After: Harianto #0000650
+DOB 1995-11-20
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000751|Novelia Theresia|ANGGOTA_SIDI|Harianto #0000650|Graha Raya Bintaro Blok E 8 No. 5|GRAHA RAYA BINTARO||08998232401|1995-11-20|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: fiera residence gb/gr 9-90 kel. pondok kacang barat, kec. pondok aren 
+NOMOR
+DOB 1977-12-22
+DARAH NN
+PENDIDIKAN S2
+PROFESI None
+ETNIK Jawa
+EMAIL christian.pribadi@gmail.com
+True|D0000730|Christian Pribadi|ANGGOTA_SIDI|Christian Pribadi #0000730|Fiera Residence GB/GR 9-90 Kel. Pondok Kacang Barat, Kec. Pondok Aren |GRAHA RAYA BINTARO||0819 05005414|1977-12-22|MENIKAH|NN|NN|christian.pribadi@gmail.com|ALAM SUTERA|Jawa|S2|None||Panitia
+Alamat Before: sda
+NOMOR
+Alamat After: Fiera Residence GB/GR 9-90 Kel. Pondok Kacang Barat, Kec. Pondok Aren 
+Prev KK: Christian Pribadi
+KK After: Christian Pribadi #0000730
+DOB 1980-05-12
+DARAH O
+PENDIDIKAN S2
+PROFESI None
+ETNIK Jawa
+EMAIL ninabelle_madame@yahoo.co.id
+False|D0000731|Diana Lourensia Meikasari|ANGGOTA_SIDI|Christian Pribadi #0000730|Fiera Residence GB/GR 9-90 Kel. Pondok Kacang Barat, Kec. Pondok Aren |GRAHA RAYA BINTARO||0878 85520707|1980-05-12|MENIKAH|O|RP|ninabelle_madame@yahoo.co.id|ALAM SUTERA|Jawa|S2|None||GSM
+Alamat Before: sda
+NOMOR
+Alamat After: Fiera Residence GB/GR 9-90 Kel. Pondok Kacang Barat, Kec. Pondok Aren 
+Prev KK: Christian Pribadi
+KK After: Christian Pribadi #0000730
+DOB 2008-08-23
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2012009|Christabel Damaira|ANGGOTA_ANAK|Christian Pribadi #0000730|Fiera Residence GB/GR 9-90 Kel. Pondok Kacang Barat, Kec. Pondok Aren |GRAHA RAYA BINTARO|||2008-08-23|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: graha raya bintaro blok m 6 no. 4
+NOMOR
+DOB 1994-12-18
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000755|Christian|ANGGOTA_SIDI|Christian #0000755|Graha Raya Bintaro Blok M 6 No. 4|GRAHA RAYA BINTARO||085716897969|1994-12-18|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: blok n 7 n0. 3
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000529|Nyoto Yusuf|ANGGOTA_SIDI|Nyoto Yusuf #0000529|Blok N 7 N0. 3|GRAHA RAYA BINTARO|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: blok n 9 no. 43
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000527|Jujung Panlimonsi Siagian|ANGGOTA_SIDI|Jujung Panlimonsi Siagian #0000527|Blok N 9 No. 43|GRAHA RAYA BINTARO|730 7440||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Blok N 9 No. 43
+Prev KK: Jujung Panlimonsi Siagian
+KK After: Jujung Panlimonsi Siagian #0000527
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000528|Tetty Florida Pardede|ANGGOTA_SIDI|Jujung Panlimonsi Siagian #0000527|Blok N 9 No. 43|GRAHA RAYA BINTARO|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Blok N 9 No. 43
+Prev KK: Jujung Panlimonsi Siagian
+KK After: Jujung Panlimonsi Siagian #0000527
+DOB 1996-06-05
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1997028|Junita Trifena Siagian|ANGGOTA_ANAK|Jujung Panlimonsi Siagian #0000527|Blok N 9 No. 43|GRAHA RAYA BINTARO|||1996-06-05|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Blok N 9 No. 43
+Prev KK: Jujung Panlimonsi Siagian
+KK After: Jujung Panlimonsi Siagian #0000527
+DOB 1998-08-20
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1998032|Jonathan Timothy Siagian|ANGGOTA_ANAK|Jujung Panlimonsi Siagian #0000527|Blok N 9 No. 43|GRAHA RAYA BINTARO|||1998-08-20|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: blok ra 2 no. 6
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000376|Agus Purwanto|ANGGOTA_SIDI|Agus Purwanto #0000376|Blok RA 2 No. 6|GRAHA RAYA BINTARO|732 8094||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: graha raya dahlia loka ra 2 no. 6
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000296|Aida Astuti Cahyaningwidi R. S.|ANGGOTA_SIDI|Aida Astuti Cahyaningwidi R. S. #0000296|Graha Raya Dahlia Loka RA 2 No. 6|GRAHA RAYA BINTARO|5312 5735||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: blok ra 4 no. 14
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000184|Felicia Farida Santoso|ANGGOTA_SIDI|Felicia Farida Santoso #0000184|Blok RA 4 No. 14|GRAHA RAYA BINTARO|733 4654||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kayu manis x gg. sukun i no. 15 graha raya bintaro
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000862|Nary|ANGGOTA_SIDI|Susatia Budi Tama #0000862|Jl. Kayu Manis X Gg. Sukun I No. 15 Graha Raya Bintaro|GRAHA RAYA BINTARO|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kayu Manis X Gg. Sukun I No. 15 Graha Raya Bintaro
+Prev KK: Nary
+KK After: Susatia Budi Tama #0000862
+DOB 2001-06-15
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2001017|Natasha Lodwig Ananto|ANGGOTA_ANAK|Susatia Budi Tama #0000862|Jl. Kayu Manis X Gg. Sukun I No. 15 Graha Raya Bintaro|GRAHA RAYA BINTARO|||2001-06-15|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kayu Manis X Gg. Sukun I No. 15 Graha Raya Bintaro
+Prev KK: Nary
+KK After: Susatia Budi Tama #0000862
+DOB 2003-10-11
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2003040|Nathanael Lodwig Ananto|ANGGOTA_ANAK|Susatia Budi Tama #0000862|Jl. Kayu Manis X Gg. Sukun I No. 15 Graha Raya Bintaro|GRAHA RAYA BINTARO|||2003-10-11|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: graha raya bintaro blok ra 8 no. 5
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000084|Demi Sari Pramesti|ANGGOTA_SIDI|Jesianto Nugroho #0000084|Graha Raya Bintaro Blok RA 8 No. 5|GRAHA RAYA BINTARO||08159629112|None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Graha Raya Bintaro Blok RA 8 No. 5
+Prev KK: Demi Sari Pramesti
+KK After: Jesianto Nugroho #0000084
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008021|Hani Kristiana|ANGGOTA_ANAK|Jesianto Nugroho #0000084|Graha Raya Bintaro Blok RA 8 No. 5|GRAHA RAYA BINTARO|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Graha Raya Bintaro Blok RA 8 No. 5
+Prev KK: Demi Sari Pramesti
+KK After: Jesianto Nugroho #0000084
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008022|Ryan Krishandi Lukito|ANGGOTA_ANAK|Jesianto Nugroho #0000084|Graha Raya Bintaro Blok RA 8 No. 5|GRAHA RAYA BINTARO|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: adena 2 blok sa 8 no. 5 graha raya 
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000899|Renilda Shinta Syukur|ANGGOTA_SIDI|Renilda Shinta Syukur #0000899|Adena 2 Blok SA 8 No. 5 Graha Raya |GRAHA RAYA BINTARO|0818120013||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. buaran pakujaya blk. alfamart pakujaya
+NOMOR
+DOB 1979-07-05
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000004|Ferry Sarumaha|ANGGOTA_SIDI|Ferry Sarumaha #0000004|Jl. Buaran Pakujaya Blk. Alfamart Pakujaya|GRAHA RAYA BINTARO||0813 80854274|1979-07-05|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Buaran Pakujaya Blk. Alfamart Pakujaya
+Prev KK: Ferry Sarumaha
+KK After: Ferry Sarumaha #0000004
+DOB 1981-12-28
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000005|Sarah|ANGGOTA_SIDI|Ferry Sarumaha #0000004|Jl. Buaran Pakujaya Blk. Alfamart Pakujaya|GRAHA RAYA BINTARO|||1981-12-28|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. buaran pakujaya blk. alfamart pakujaya
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|A2013085|Faaseqi Anugrah Daniel Sarumaha|ANGGOTA_ANAK|Faaseqi Anugrah Daniel Sarumaha #2013085|Jl. Buaran Pakujaya Blk. Alfamart Pakujaya|GRAHA RAYA BINTARO|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Buaran Pakujaya Blk. Alfamart Pakujaya
+Prev KK: Faaseqi Anugrah Daniel Sarumaha
+KK After: Faaseqi Anugrah Daniel Sarumaha #2013085
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2013086|Immanuel Vonnata Sarumaha|ANGGOTA_ANAK|Faaseqi Anugrah Daniel Sarumaha #2013085|Jl. Buaran Pakujaya Blk. Alfamart Pakujaya|GRAHA RAYA BINTARO|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Buaran Pakujaya Blk. Alfamart Pakujaya
+Prev KK: Faaseqi Anugrah Daniel Sarumaha
+KK After: Faaseqi Anugrah Daniel Sarumaha #2013085
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2014025|Yehezkiel Yosafat Sarumaha|ANGGOTA_ANAK|Faaseqi Anugrah Daniel Sarumaha #2013085|Jl. Buaran Pakujaya Blk. Alfamart Pakujaya|GRAHA RAYA BINTARO|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: graha raya bintaro blok e8/5 gardenia loka
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000292|Nathan Filipus|ANGGOTA_SIDI|Nathan Filipus #0000292|Graha Raya Bintaro Blok E8/5 Gardenia Loka|GRAHA RAYA BINTARO|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: fortune spring blok d 2-a 26 graha raya bintaro
+NOMOR
+DOB None
+DARAH O
+PENDIDIKAN SMA/SMU/SPK
+PROFESI None
+ETNIK Tionghoa
+EMAIL 
+True|D0000101|Hendra Rahardja|ANGGOTA_SIDI|Kevin Evano Irawan #0000101|Fortune Spring Blok D 2-A 26 Graha Raya Bintaro|GRAHA RAYA BINTARO|7114 2458|0813 5473887|None|MENIKAH|O|RP||ALAM SUTERA|Tionghoa|SMA/SMU/SPK|None||Komisi
+Alamat Before: sda
+NOMOR
+Alamat After: Fortune Spring Blok D 2-A 26 Graha Raya Bintaro
+Prev KK: Hendra Rahardja
+KK After: Kevin Evano Irawan #0000101
+DOB None
+DARAH B
+PENDIDIKAN SMP
+PROFESI None
+ETNIK Sunda
+EMAIL 
+False|D0000102|T i t i n|ANGGOTA_SIDI|Kevin Evano Irawan #0000101|Fortune Spring Blok D 2-A 26 Graha Raya Bintaro|GRAHA RAYA BINTARO||0856 94215204|None|MENIKAH|B|RP||ALAM SUTERA|Sunda|SMP|None||PS
+Alamat Before: graha raya, flamboyan loka blok f17 no.7
+NOMOR
+DOB 1986-02-01
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000800|Frangki Untono|ANGGOTA_SIDI|Frangki Untono #0000800|Graha Raya, Flamboyan Loka Blok F17 No.7|GRAHA RAYA BINTARO|||1986-02-01|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Kelurahan: GADING SERPONG
+Alamat Before: magnolia ma 1 no. 7 l'agricola gading serpong
+NOMOR
+DOB None
+DARAH O
+PENDIDIKAN S1
+PROFESI None
+ETNIK Nias
+EMAIL arozatulo.zebua@gmail.com
+True|D0000501|Arozatulo Zebua|ANGGOTA_SIDI|Arozatulo Zebua #0000501|Magnolia MA 1 No. 7 L'agricola Gading Serpong|GADING SERPONG|54201819|0816 4815319|None|MENIKAH|O|RP|arozatulo.zebua@gmail.com|ALAM SUTERA|Nias|S1|None||MJ, Panitia
+Alamat Before: sda
+NOMOR
+Alamat After: Magnolia MA 1 No. 7 L'agricola Gading Serpong
+Prev KK: Arozatulo Zebua
+KK After: Arozatulo Zebua #0000501
+DOB None
+DARAH A
+PENDIDIKAN Diploma
+PROFESI None
+ETNIK Nias
+EMAIL venty.zebua@gmail.com
+False|D0000502|Venty Helmisari Zebua|ANGGOTA_SIDI|Arozatulo Zebua #0000501|Magnolia MA 1 No. 7 L'agricola Gading Serpong|GADING SERPONG||0853 10075908|None|MENIKAH|A|RP|venty.zebua@gmail.com|ALAM SUTERA|Nias|Diploma|None||PS
+Alamat Before: sda
+NOMOR
+Alamat After: Magnolia MA 1 No. 7 L'agricola Gading Serpong
+Prev KK: Arozatulo Zebua
+KK After: Arozatulo Zebua #0000501
+DOB 2001-09-23
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2004048|Theodora Samuel Zebua|ANGGOTA_ANAK|Arozatulo Zebua #0000501|Magnolia MA 1 No. 7 L'agricola Gading Serpong|GADING SERPONG|||2001-09-23|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Magnolia MA 1 No. 7 L'agricola Gading Serpong
+Prev KK: Arozatulo Zebua
+KK After: Arozatulo Zebua #0000501
+DOB 2003-04-21
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2004049|Ryan Xavier Fatizame Zebua|ANGGOTA_ANAK|Arozatulo Zebua #0000501|Magnolia MA 1 No. 7 L'agricola Gading Serpong|GADING SERPONG|||2003-04-21|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kelapa molek 12 blok fb 6 no. 17 sektor viii a
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000992|Godlief Adolf Andries|ANGGOTA_SIDI|Godlief Adolf Andries #0000992|Jl. Kelapa Molek 12 Blok FB 6 No. 17 Sektor VIII A|GADING SERPONG|0818 662905||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Molek 12 Blok FB 6 No. 17 Sektor VIII A
+Prev KK: Godlief Adolf Andries
+KK After: Godlief Adolf Andries #0000992
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000993|Vergiana E.J. Andries|ANGGOTA_SIDI|Godlief Adolf Andries #0000992|Jl. Kelapa Molek 12 Blok FB 6 No. 17 Sektor VIII A|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Molek 12 Blok FB 6 No. 17 Sektor VIII A
+Prev KK: Godlief Adolf Andries
+KK After: Godlief Adolf Andries #0000992
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000994|Mariory M.F. Andries|ANGGOTA_SIDI|Godlief Adolf Andries #0000992|Jl. Kelapa Molek 12 Blok FB 6 No. 17 Sektor VIII A|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kelapa puan 11 blok af 2 no. 9
+NOMOR
+DOB None
+DARAH A
+PENDIDIKAN S3
+PROFESI None
+ETNIK Tionghoa
+EMAIL yoditya@yahoo.com
+True|D0000519|Yonathan Aditya Goei|ANGGOTA_SIDI|Yonathan Aditya Goei #0000519|Jl. Kelapa Puan 11 Blok AF 2 No. 9|GADING SERPONG|546 7257|0821 14314500|None|MENIKAH|A|RP|yoditya@yahoo.com|ALAM SUTERA|Tionghoa|S3|None||MJ, Komisi, Panitia
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Puan 11 Blok AF 2 No. 9
+Prev KK: Yonathan Aditya Goei
+KK After: Yonathan Aditya Goei #0000519
+DOB None
+DARAH B
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL emy.hendrajani@yahoo.com
+False|D0000520|Emy Hendrajani|ANGGOTA_SIDI|Yonathan Aditya Goei #0000519|Jl. Kelapa Puan 11 Blok AF 2 No. 9|GADING SERPONG||0812 24916711|None|MENIKAH|B|RP|emy.hendrajani@yahoo.com|ALAM SUTERA|Tionghoa|S1|None||Komisi
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Puan 11 Blok AF 2 No. 9
+Prev KK: Yonathan Aditya Goei
+KK After: Yonathan Aditya Goei #0000519
+DOB 1994-08-29
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1997023|Gabriel Jonathan Goei|ANGGOTA_ANAK|Yonathan Aditya Goei #0000519|Jl. Kelapa Puan 11 Blok AF 2 No. 9|GADING SERPONG|||1994-08-29|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Puan 11 Blok AF 2 No. 9
+Prev KK: Yonathan Aditya Goei
+KK After: Yonathan Aditya Goei #0000519
+DOB 1999-11-21
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2000008|Nadia Adelina Goei|ANGGOTA_ANAK|Yonathan Aditya Goei #0000519|Jl. Kelapa Puan 11 Blok AF 2 No. 9|GADING SERPONG|||1999-11-21|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kelapa puan 14 blok af 9 no. 1 gd. serpong
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000362|Stephanie Ilham|ANGGOTA_SIDI|Stephanie Ilham #0000362|Jl. Kelapa Puan 14 Blok AF 9 No. 1 Gd. Serpong|GADING SERPONG|546 7322||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kelapa puan 16 blok ag 12 no. 10
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000720|Indra Patria Hasoholan Manik|ANGGOTA_SIDI|Indra Patria Hasoholan Manik #0000720|Jl. Kelapa Puan 16 Blok AG 12 No. 10|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Puan 16 Blok AG 12 No. 10
+Prev KK: Indra Patria Hasoholan Manik
+KK After: Indra Patria Hasoholan Manik #0000720
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000658|Kurniawan Hatigoran Manik|ANGGOTA_SIDI|Indra Patria Hasoholan Manik #0000720|Jl. Kelapa Puan 16 Blok AG 12 No. 10|GADING SERPONG|0816 924774 ||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kelapa puan xi blok af 3 no. 9  gd. serpong
+NOMOR
+DOB None
+DARAH B
+PENDIDIKAN SMA/SMU/SPK
+PROFESI None
+ETNIK Tionghoa
+EMAIL jusuf59@yahoo.com
+True|D0000328|Yusuf Yahya|ANGGOTA_SIDI|Yusuf Yahya #0000328|Jl. Kelapa Puan XI Blok AF 3 No. 9  Gd. Serpong|GADING SERPONG|547 1431|70167281|None|MENIKAH|B|RP|jusuf59@yahoo.com|ALAM SUTERA|Tionghoa|SMA/SMU/SPK|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Puan XI Blok AF 3 No. 9  Gd. Serpong
+Prev KK: Yusuf Yahya
+KK After: Yusuf Yahya #0000328
+DOB None
+DARAH O
+PENDIDIKAN Diploma
+PROFESI None
+ETNIK Tionghoa
+EMAIL 
+False|D0000329|Suciaty |ANGGOTA_SIDI|Yusuf Yahya #0000328|Jl. Kelapa Puan XI Blok AF 3 No. 9  Gd. Serpong|GADING SERPONG|||None|MENIKAH|O|RP||ALAM SUTERA|Tionghoa|Diploma|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Puan XI Blok AF 3 No. 9  Gd. Serpong
+Prev KK: Yusuf Yahya
+KK After: Yusuf Yahya #0000328
+DOB None
+DARAH B
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL jahja.adinata@gmail.com
+False|D0000414|Adinata Jahja|ANGGOTA_SIDI|Yusuf Yahya #0000328|Jl. Kelapa Puan XI Blok AF 3 No. 9  Gd. Serpong|GADING SERPONG||0819 094029098|None|MENIKAH|B|RP|jahja.adinata@gmail.com|ALAM SUTERA|Tionghoa|S1|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Puan XI Blok AF 3 No. 9  Gd. Serpong
+Prev KK: Yusuf Yahya
+KK After: Yusuf Yahya #0000328
+DOB 1993-12-29
+DARAH B
+PENDIDIKAN None
+PROFESI Pelajar/Mahasiswa
+ETNIK Tionghoa
+EMAIL natasiayosua@gmail.com
+False|D0000779|Natasia Yosua|ANGGOTA_SIDI|Yusuf Yahya #0000328|Jl. Kelapa Puan XI Blok AF 3 No. 9  Gd. Serpong|GADING SERPONG||0819 066022912|1993-12-29|MENIKAH|B|RP|natasiayosua@gmail.com|ALAM SUTERA|Tionghoa|None|Pelajar/Mahasiswa||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Puan XI Blok AF 3 No. 9  Gd. Serpong
+Prev KK: Yusuf Yahya
+KK After: Yusuf Yahya #0000328
+DOB 1998-04-21
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1998034|Anata Odilia Yosua |ANGGOTA_ANAK|Yusuf Yahya #0000328|Jl. Kelapa Puan XI Blok AF 3 No. 9  Gd. Serpong|GADING SERPONG|||1998-04-21|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kelapa puan 22 blok ak 2 no. 19
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000465|Aris Jonathan Tambunan|ANGGOTA_SIDI|Aris Jonathan Tambunan #0000465|Jl. Kelapa Puan 22 Blok AK 2 No. 19|GADING SERPONG|547 4602||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Puan 22 Blok AK 2 No. 19
+Prev KK: Aris Jonathan Tambunan
+KK After: Aris Jonathan Tambunan #0000465
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000466|Dwine Yulita Christien|ANGGOTA_SIDI|Aris Jonathan Tambunan #0000465|Jl. Kelapa Puan 22 Blok AK 2 No. 19|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Puan 22 Blok AK 2 No. 19
+Prev KK: Aris Jonathan Tambunan
+KK After: Aris Jonathan Tambunan #0000465
+DOB 2002-12-09
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2004006|Ivana Anabella|ANGGOTA_ANAK|Aris Jonathan Tambunan #0000465|Jl. Kelapa Puan 22 Blok AK 2 No. 19|GADING SERPONG|||2002-12-09|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: gd. serpong klp. puan 22 blok ak 2 no. 19
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|A2010023|Marco Nathaniel Tambunan|ANGGOTA_ANAK|Marco Nathaniel Tambunan #2010023|Gd. Serpong Klp. Puan 22 Blok AK 2 No. 19|GADING SERPONG|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kelapa sawit vi blok bo 6 no. 8
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000566|Hendry William|ANGGOTA_SIDI|Simon Freddy Laisina #0000566|Jl. Kelapa Sawit VI Blok BO 6 No. 8|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||Rumah sudah dikontrakkan ke orang lain
+Alamat Before: jl. kelapa sawit vi blok bd 6 no. 8 gd. serpong
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000232|Iman Ardiansyah|ANGGOTA_SIDI|Iman Ardiansyah #0000232|Jl. Kelapa Sawit VI Blok BD 6 No. 8 Gd. Serpong|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: cluster angelonia jl. angelonia v blok a1/h21, permata medang - gading serpong
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000019|Budhi Haryanto Gunawan|ANGGOTA_SIDI|Budhi Haryanto Gunawan #0000019|Cluster Angelonia Jl. Angelonia V Blok A1/H21, Permata Medang - Gading Serpong|GADING SERPONG|08161350430||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Cluster Angelonia Jl. Angelonia V Blok A1/H21, Permata Medang - Gading Serpong
+Prev KK: Budhi Haryanto Gunawan
+KK After: Budhi Haryanto Gunawan #0000019
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000020|Venita Hajati Lengkong|ANGGOTA_SIDI|Budhi Haryanto Gunawan #0000019|Cluster Angelonia Jl. Angelonia V Blok A1/H21, Permata Medang - Gading Serpong|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Cluster Angelonia Jl. Angelonia V Blok A1/H21, Permata Medang - Gading Serpong
+Prev KK: Budhi Haryanto Gunawan
+KK After: Budhi Haryanto Gunawan #0000019
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2007061|Dave Nathanael Gunawan|ANGGOTA_ANAK|Budhi Haryanto Gunawan #0000019|Cluster Angelonia Jl. Angelonia V Blok A1/H21, Permata Medang - Gading Serpong|GADING SERPONG|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Cluster Angelonia Jl. Angelonia V Blok A1/H21, Permata Medang - Gading Serpong
+Prev KK: Budhi Haryanto Gunawan
+KK After: Budhi Haryanto Gunawan #0000019
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2007062|Mike Jared Gunawan|ANGGOTA_ANAK|Budhi Haryanto Gunawan #0000019|Cluster Angelonia Jl. Angelonia V Blok A1/H21, Permata Medang - Gading Serpong|GADING SERPONG|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: gd. serpong 7a jl klp. lilin 1 blok dc 3 no. 18
+NOMOR
+DOB None
+DARAH O
+PENDIDIKAN Diploma
+PROFESI None
+ETNIK Jawa
+EMAIL rizantyo@yahoo.co.id
+True|D0000836|Rizantyo Heveadi|ANGGOTA_SIDI|Rizantyo Heveadi #0000836|Gd. Serpong 7A Jl Klp. Lilin 1 Blok DC 3 No. 18|GADING SERPONG|5420 4699|0815 11798551|None|MENIKAH|O|RP|rizantyo@yahoo.co.id|ALAM SUTERA|Jawa|Diploma|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Gd. Serpong 7A Jl Klp. Lilin 1 Blok DC 3 No. 18
+Prev KK: Rizantyo Heveadi
+KK After: Rizantyo Heveadi #0000836
+DOB None
+DARAH B
+PENDIDIKAN Diploma
+PROFESI None
+ETNIK Jawa
+EMAIL 
+False|D0000833|Shasi Indria Sukmawati|ANGGOTA_SIDI|Rizantyo Heveadi #0000836|Gd. Serpong 7A Jl Klp. Lilin 1 Blok DC 3 No. 18|GADING SERPONG||0858 88391037|None|MENIKAH|B|RP||ALAM SUTERA|Jawa|Diploma|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Gd. Serpong 7A Jl Klp. Lilin 1 Blok DC 3 No. 18
+Prev KK: Rizantyo Heveadi
+KK After: Rizantyo Heveadi #0000836
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2001051|Andhika Talentyoadi|ANGGOTA_ANAK|Rizantyo Heveadi #0000836|Gd. Serpong 7A Jl Klp. Lilin 1 Blok DC 3 No. 18|GADING SERPONG|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. kelapa lilin 11 blok dc 14 no. 18 gd. serpong
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000392|Johan Lo|ANGGOTA_SIDI|Johan Lo #0000392|Jl. Kelapa Lilin 11 Blok DC 14 No. 18 Gd. Serpong|GADING SERPONG|538 3181||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Lilin 11 Blok DC 14 No. 18 Gd. Serpong
+Prev KK: Johan Lo
+KK After: Johan Lo #0000392
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000393|Marawaty Yunus|ANGGOTA_SIDI|Johan Lo #0000392|Jl. Kelapa Lilin 11 Blok DC 14 No. 18 Gd. Serpong|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Lilin 11 Blok DC 14 No. 18 Gd. Serpong
+Prev KK: Johan Lo
+KK After: Johan Lo #0000392
+DOB 1997-12-20
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000321|Stephen Lowis Putra|ANGGOTA_SIDI|Johan Lo #0000392|Jl. Kelapa Lilin 11 Blok DC 14 No. 18 Gd. Serpong|GADING SERPONG|||1997-12-20|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Kelapa Lilin 11 Blok DC 14 No. 18 Gd. Serpong
+Prev KK: Johan Lo
+KK After: Johan Lo #0000392
+DOB 2001-08-23
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2001018|Stephanie Lowis Putri|ANGGOTA_ANAK|Johan Lo #0000392|Jl. Kelapa Lilin 11 Blok DC 14 No. 18 Gd. Serpong|GADING SERPONG|||2001-08-23|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. pelepah kuning 3 blok db 13 no. 7 sekt. 7 a
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000615|Hotman Jhon P. Simbolon|ANGGOTA_SIDI|Hotman Jhon P. Simbolon #0000615|Jl. Pelepah Kuning 3 Blok DB 13 No. 7 Sekt. 7 A|GADING SERPONG|546 8908||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Pelepah Kuning 3 Blok DB 13 No. 7 Sekt. 7 A
+Prev KK: Hotman Jhon P. Simbolon
+KK After: Hotman Jhon P. Simbolon #0000615
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000721|Hanna Victoria Sitohang|ANGGOTA_SIDI|Hotman Jhon P. Simbolon #0000615|Jl. Pelepah Kuning 3 Blok DB 13 No. 7 Sekt. 7 A|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Pelepah Kuning 3 Blok DB 13 No. 7 Sekt. 7 A
+Prev KK: Hotman Jhon P. Simbolon
+KK After: Hotman Jhon P. Simbolon #0000615
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008081|Clelia Gracelyn Simbolon|ANGGOTA_ANAK|Hotman Jhon P. Simbolon #0000615|Jl. Pelepah Kuning 3 Blok DB 13 No. 7 Sekt. 7 A|GADING SERPONG|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Pelepah Kuning 3 Blok DB 13 No. 7 Sekt. 7 A
+Prev KK: Hotman Jhon P. Simbolon
+KK After: Hotman Jhon P. Simbolon #0000615
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2012066|Jenaya Chenya Simbolon|ANGGOTA_ANAK|Hotman Jhon P. Simbolon #0000615|Jl. Pelepah Kuning 3 Blok DB 13 No. 7 Sekt. 7 A|GADING SERPONG|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sektor i. c blok cb 5 no. 12
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000339|Gerson Paulus Nggadas|ANGGOTA_SIDI|Gerson Paulus Nggadas #0000339|Sektor I. C Blok CB 5 No. 12|GADING SERPONG|546 8643||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sektor I. C Blok CB 5 No. 12
+Prev KK: Gerson Paulus Nggadas
+KK After: Gerson Paulus Nggadas #0000339
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000342|Irene Charlote S.|ANGGOTA_SIDI|Gerson Paulus Nggadas #0000339|Sektor I. C Blok CB 5 No. 12|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sektor I. C Blok CB 5 No. 12
+Prev KK: Gerson Paulus Nggadas
+KK After: Gerson Paulus Nggadas #0000339
+DOB 1998-05-02
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1998012|Farrel Christian Nggadas|ANGGOTA_ANAK|Gerson Paulus Nggadas #0000339|Sektor I. C Blok CB 5 No. 12|GADING SERPONG|||1998-05-02|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sektor I. C Blok CB 5 No. 12
+Prev KK: Gerson Paulus Nggadas
+KK After: Gerson Paulus Nggadas #0000339
+DOB 1999-10-27
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2000003|Jacques Paulus Nggadas|ANGGOTA_ANAK|Gerson Paulus Nggadas #0000339|Sektor I. C Blok CB 5 No. 12|GADING SERPONG|||1999-10-27|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: pondok hijau golf jade blok ju 1 no. 23
+NOMOR
+DOB None
+DARAH A
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL tjoa.william@yahoo.com
+True|D0000815|William Tjoa|ANGGOTA_SIDI|William Tjoa #0000815|Pondok Hijau Golf Jade Blok JU 1 No. 23|GADING SERPONG|29000823|0818 864720|None|MENIKAH|A|RP|tjoa.william@yahoo.com|ALAM SUTERA|Tionghoa|S1|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Pondok Hijau Golf Jade Blok JU 1 No. 23
+Prev KK: William Tjoa
+KK After: William Tjoa #0000815
+DOB None
+DARAH A
+PENDIDIKAN SMA/SMU/SPK
+PROFESI None
+ETNIK Tionghoa
+EMAIL apingsong@yahoo.com
+False|D0000816|Sunoar|ANGGOTA_SIDI|William Tjoa #0000815|Pondok Hijau Golf Jade Blok JU 1 No. 23|GADING SERPONG||0813 0769387|None|MENIKAH|A|RP|apingsong@yahoo.com|ALAM SUTERA|Tionghoa|SMA/SMU/SPK|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Pondok Hijau Golf Jade Blok JU 1 No. 23
+Prev KK: William Tjoa
+KK After: William Tjoa #0000815
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2006083|Adeline Nathasya|ANGGOTA_ANAK|William Tjoa #0000815|Pondok Hijau Golf Jade Blok JU 1 No. 23|GADING SERPONG|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Pondok Hijau Golf Jade Blok JU 1 No. 23
+Prev KK: William Tjoa
+KK After: William Tjoa #0000815
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2006084|Wilson Christhoper|ANGGOTA_ANAK|William Tjoa #0000815|Pondok Hijau Golf Jade Blok JU 1 No. 23|GADING SERPONG|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: emerald selatan 5 / 10 pd. hijau golf sumarecon
+NOMOR
+DOB 1972-02-05
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000984|Patricia Febryani|ANGGOTA_SIDI|Patricia Febryani #0000984|Emerald Selatan 5 / 10 Pd. Hijau Golf Sumarecon|GADING SERPONG||0818 900098|1972-02-05|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: taman newton no. 1 gading serpong
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000334|Nelson Sianturi|ANGGOTA_SIDI|Nelson Sianturi #0000334|Taman Newton No. 1 Gading Serpong|GADING SERPONG|685 42844||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Newton No. 1 Gading Serpong
+Prev KK: Nelson Sianturi
+KK After: Nelson Sianturi #0000334
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000335|Helti Sinaga|ANGGOTA_SIDI|Nelson Sianturi #0000334|Taman Newton No. 1 Gading Serpong|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Taman Newton No. 1 Gading Serpong
+Prev KK: Nelson Sianturi
+KK After: Nelson Sianturi #0000334
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000298|Samuel Teguh Putra Sianturi|ANGGOTA_SIDI|Nelson Sianturi #0000334|Taman Newton No. 1 Gading Serpong|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: taman newton no. 1 gading serpong
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000861|Octa Marihot Dharma Sianturi|ANGGOTA_SIDI|Octa Marihot Dharma Sianturi #0000861|Taman Newton No. 1 Gading Serpong|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: cluster crystal residences blok tc 1 no. 28
+NOMOR
+DOB 1971-03-10
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000617|Camellia Esther Wangko|ANGGOTA_SIDI|Camellia Esther Wangko #0000617|Cluster Crystal Residences Blok TC 1 No. 28|GADING SERPONG||08161157887|1971-03-10|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. alexandrite selatan no. 31 gading serpong
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000301|Magdalena Yuliati|ANGGOTA_SIDI|Magdalena Yuliati #0000301|Jl. Alexandrite Selatan No. 31 Gading Serpong|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Alexandrite Selatan No. 31 Gading Serpong
+Prev KK: Magdalena Yuliati
+KK After: Magdalena Yuliati #0000301
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000303|Yosia Kurniawan|ANGGOTA_SIDI|Magdalena Yuliati #0000301|Jl. Alexandrite Selatan No. 31 Gading Serpong|GADING SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Alexandrite Selatan No. 31 Gading Serpong
+Prev KK: Magdalena Yuliati
+KK After: Magdalena Yuliati #0000301
+DOB 1996-10-25
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000672|Yuda Satrio Wicaksono|ANGGOTA_SIDI|Magdalena Yuliati #0000301|Jl. Alexandrite Selatan No. 31 Gading Serpong|GADING SERPONG|||1996-10-25|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Alexandrite Selatan No. 31 Gading Serpong
+Prev KK: Magdalena Yuliati
+KK After: Magdalena Yuliati #0000301
+DOB 2001-09-16
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2002009|Hadasa Arum Ranti|ANGGOTA_ANAK|Magdalena Yuliati #0000301|Jl. Alexandrite Selatan No. 31 Gading Serpong|GADING SERPONG|||2001-09-16|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: aquamarine raya no. 15 sumarecon serpong
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000648|F e r r y|ANGGOTA_SIDI|F E R R Y #0000648|Aquamarine Raya No. 15 Sumarecon Serpong|GADING SERPONG||0816 1395322|None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Aquamarine Raya No. 15 Sumarecon Serpong
+Prev KK: F e r r y
+KK After: F E R R Y #0000648
+DOB 2010-08-31
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2013068|Annabelle Dafena|ANGGOTA_ANAK|F E R R Y #0000648|Aquamarine Raya No. 15 Sumarecon Serpong|GADING SERPONG|||2010-08-31|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Aquamarine Raya No. 15 Sumarecon Serpong
+Prev KK: F e r r y
+KK After: F E R R Y #0000648
+DOB 2012-02-02
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2013069|Amillie Bawin Terry|ANGGOTA_ANAK|F E R R Y #0000648|Aquamarine Raya No. 15 Sumarecon Serpong|GADING SERPONG|||2012-02-02|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. ruby barat 3 no. 15 cluster ruby phg gd. serpong
+NOMOR
+DOB 1969-06-14
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000066|Rico Djoni Morra|ANGGOTA_SIDI|Rico Djoni Morra #0000066|Jl. Ruby Barat 3 No. 15 Cluster Ruby PHG Gd. Serpong|GADING SERPONG||0815 14356973|1969-06-14|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Jl. Ruby Barat 3 No. 15 Cluster Ruby PHG Gd. Serpong
+Prev KK: Rico Djoni Morra
+KK After: Rico Djoni Morra #0000066
+DOB 1966-01-20
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000067|Dwi Pujiningsih|ANGGOTA_SIDI|Rico Djoni Morra #0000066|Jl. Ruby Barat 3 No. 15 Cluster Ruby PHG Gd. Serpong|GADING SERPONG|||1966-01-20|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: cluster maxwell selatan i/68, gading serpong
+NOMOR
+DOB 1970-04-11
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000032|Yohana Elizabeth Hardjadinata|ANGGOTA_SIDI|Yohana Elizabeth Hardjadinata #0000032|Cluster Maxwell Selatan I/68, Gading Serpong|GADING SERPONG|||1970-04-11|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Cluster Maxwell Selatan I/68, Gading Serpong
+Prev KK: Yohana Elizabeth Hardjadinata
+KK After: Yohana Elizabeth Hardjadinata #0000032
+DOB 1995-05-27
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|Belum Baptis Anak|Jonathan Daniel Anoi|ANGGOTA_ANAK|Yohana Elizabeth Hardjadinata #0000032|Cluster Maxwell Selatan I/68, Gading Serpong|GADING SERPONG|||1995-05-27|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Exception: {'nomor_anggota': ['Pastikan nilai ini mengandung paling banyak 10 karakter (sekarang 17 karakter).']}
+Alamat Before: sda
+NOMOR
+Alamat After: Cluster Maxwell Selatan I/68, Gading Serpong
+Prev KK: Yohana Elizabeth Hardjadinata
+KK After: Yohana Elizabeth Hardjadinata #0000032
+DOB 2001-06-27
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|Belum Baptis Anak|Theodore Lukas Anoi|ANGGOTA_ANAK|Yohana Elizabeth Hardjadinata #0000032|Cluster Maxwell Selatan I/68, Gading Serpong|GADING SERPONG|||2001-06-27|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Exception: {'nomor_anggota': ['Pastikan nilai ini mengandung paling banyak 10 karakter (sekarang 17 karakter).']}
+Kelurahan: BUKIT SERPONG MAS
+Alamat Before: komplek bukit serpong mas blok bv no. 119
+NOMOR
+DOB None
+DARAH O
+PENDIDIKAN S1
+PROFESI None
+ETNIK Batak
+EMAIL haposanmanurung@hsbc.co.id
+True|D0000126|Haposan Robert Parulian Manurung|ANGGOTA_SIDI|Haposan Robert Parulian Manurung #0000126|Komplek Bukit Serpong Mas Blok BV No. 119|BUKIT SERPONG MAS|7026 9186|0816 959186|None|MENIKAH|O|RP|haposanmanurung@hsbc.co.id|ALAM SUTERA|Batak|S1|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Komplek Bukit Serpong Mas Blok BV No. 119
+Prev KK: Haposan Robert Parulian Manurung
+KK After: Haposan Robert Parulian Manurung #0000126
+DOB None
+DARAH B
+PENDIDIKAN S1
+PROFESI None
+ETNIK Batak
+EMAIL silaenvonny@yahoo.com
+False|D0000127|Vonny Parulian Silaen|ANGGOTA_SIDI|Haposan Robert Parulian Manurung #0000126|Komplek Bukit Serpong Mas Blok BV No. 119|BUKIT SERPONG MAS||0812 6553105|None|MENIKAH|B|RP|silaenvonny@yahoo.com|ALAM SUTERA|Batak|S1|None||GSM
+Alamat Before: sda
+NOMOR
+Alamat After: Komplek Bukit Serpong Mas Blok BV No. 119
+Prev KK: Haposan Robert Parulian Manurung
+KK After: Haposan Robert Parulian Manurung #0000126
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2009032|Marco Samuel Manurung|ANGGOTA_ANAK|Haposan Robert Parulian Manurung #0000126|Komplek Bukit Serpong Mas Blok BV No. 119|BUKIT SERPONG MAS|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: bukit serpong mas blok e 8 no. 29
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000860|Priska Indah Purnama|ANGGOTA_SIDI|Priska Indah Purnama #0000860|Bukit Serpong Mas Blok E 8 No. 29|BUKIT SERPONG MAS|7080 1275||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Bukit Serpong Mas Blok E 8 No. 29
+Prev KK: Priska Indah Purnama
+KK After: Priska Indah Purnama #0000860
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008108|Jocelyn Christabel Purnama Hendry|ANGGOTA_ANAK|Priska Indah Purnama #0000860|Bukit Serpong Mas Blok E 8 No. 29|BUKIT SERPONG MAS|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Bukit Serpong Mas Blok E 8 No. 29
+Prev KK: Priska Indah Purnama
+KK After: Priska Indah Purnama #0000860
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2012064|Jeanette Anabelle Purnama Hendry|ANGGOTA_ANAK|Priska Indah Purnama #0000860|Bukit Serpong Mas Blok E 8 No. 29|BUKIT SERPONG MAS|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Kelurahan: SUMMARECON - SERPONG
+Alamat Before: flourrite barat 42 flourite resident gd. serpong
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000573|Prasetyo|ANGGOTA_SIDI|Prasetyo #0000573|Flourrite Barat 42 Flourite Resident Gd. Serpong|SUMMARECON - SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Flourrite Barat 42 Flourite Resident Gd. Serpong
+Prev KK: Prasetyo
+KK After: Prasetyo #0000573
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000503|Noventi Hadmasari|ANGGOTA_SIDI|Prasetyo #0000573|Flourrite Barat 42 Flourite Resident Gd. Serpong|SUMMARECON - SERPONG|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Flourrite Barat 42 Flourite Resident Gd. Serpong
+Prev KK: Prasetyo
+KK After: Prasetyo #0000573
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008027|Rosyano Adisa Prasetyo|ANGGOTA_ANAK|Prasetyo #0000573|Flourrite Barat 42 Flourite Resident Gd. Serpong|SUMMARECON - SERPONG|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Kelurahan: ALAM SUTERA
+Alamat Before: sutera cemara i no. 16
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000594|Rudi A.P. Saragih|ANGGOTA_SIDI|Rudi A.P. Saragih #0000594|Sutera Cemara I No. 16|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Cemara I No. 16
+Prev KK: Rudi A.P. Saragih
+KK After: Rudi A.P. Saragih #0000594
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000595|Yuliyanti Tan|ANGGOTA_SIDI|Rudi A.P. Saragih #0000594|Sutera Cemara I No. 16|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Cemara I No. 16
+Prev KK: Rudi A.P. Saragih
+KK After: Rudi A.P. Saragih #0000594
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000375|Jordy Saragih|ANGGOTA_SIDI|Rudi A.P. Saragih #0000594|Sutera Cemara I No. 16|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera cemara i no. 23
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000292|Ricky Gowandi|ANGGOTA_SIDI|Nathan Filipus #0000292|Sutera Cemara I No. 23|ALAM SUTERA|5312 0508||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Cemara I No. 23
+Prev KK: Ricky Gowandi
+KK After: Nathan Filipus #0000292
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000142|Natasha Erika Gowandi|ANGGOTA_SIDI|Nathan Filipus #0000292|Sutera Cemara I No. 23|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera delima vi no. 2
+NOMOR
+DOB None
+DARAH B
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL surjo.tanuadmodjo@gmail.com
+True|D0000984|Surjo P. Tanuatmojo|ANGGOTA_SIDI|Patricia Febryani #0000984|Sutera Delima VI No. 2|ALAM SUTERA|531 20621|0811 162011|None|MENIKAH|B|RP|surjo.tanuadmodjo@gmail.com|ALAM SUTERA|Tionghoa|S1|None||MJ, Panitia, PS
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Delima VI No. 2
+Prev KK: Surjo P. Tanuatmojo
+KK After: Patricia Febryani #0000984
+DOB None
+DARAH A
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL 
+False|D0000985|Emma Christina Rusli|ANGGOTA_SIDI|Patricia Febryani #0000984|Sutera Delima VI No. 2|ALAM SUTERA|08129453272|0812 9453272|None|MENIKAH|A|RP||ALAM SUTERA|Tionghoa|S1|None||Panitia, PS
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Delima VI No. 2
+Prev KK: Surjo P. Tanuatmojo
+KK After: Patricia Febryani #0000984
+DOB 1992-02-09
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2000042|Marta Amadea Tanuadmodjo|ANGGOTA_ANAK|Patricia Febryani #0000984|Sutera Delima VI No. 2|ALAM SUTERA|||1992-02-09|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Delima VI No. 2
+Prev KK: Surjo P. Tanuatmojo
+KK After: Patricia Febryani #0000984
+DOB 1993-06-20
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2000043|Natania Felicia Tanuadmodjo|ANGGOTA_ANAK|Patricia Febryani #0000984|Sutera Delima VI No. 2|ALAM SUTERA|||1993-06-20|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Delima VI No. 2
+Prev KK: Surjo P. Tanuatmojo
+KK After: Patricia Febryani #0000984
+DOB 1923-01-15
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000636|Lenni Tanujaya|ANGGOTA_SIDI|Patricia Febryani #0000984|Sutera Delima VI No. 2|ALAM SUTERA|||1923-01-15|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Delima VI No. 2
+Prev KK: Surjo P. Tanuatmojo
+KK After: Patricia Febryani #0000984
+DOB 2026-11-09
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000028|Untari Andjasmani|ANGGOTA_SIDI|Patricia Febryani #0000984|Sutera Delima VI No. 2|ALAM SUTERA|||2026-11-09|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. sutera delima vii no. 1 alam sutera
+NOMOR
+DOB None
+DARAH O
+PENDIDIKAN SMA/SMU/SPK
+PROFESI Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta
+ETNIK Tionghoa
+EMAIL 
+True|D0000927|Dianna Setyowati|ANGGOTA_SIDI|Dianna Setyowati #0000927|Jl. Sutera Delima VII No. 1 Alam Sutera|ALAM SUTERA|5312 3446||None|MENIKAH|O|RP||ALAM SUTERA|Tionghoa|SMA/SMU/SPK|Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta||Komisi
+Alamat Before: sutera elok i no. 20 alam sutera
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000977|Indrati|ANGGOTA_SIDI|Indrati #0000977|Sutera Elok I No. 20 Alam Sutera|ALAM SUTERA|539 7236||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Elok I No. 20 Alam Sutera
+Prev KK: Indrati
+KK After: Indrati #0000977
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000978|Dewi Damai|ANGGOTA_SIDI|Indrati #0000977|Sutera Elok I No. 20 Alam Sutera|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera elok vi no. 45
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000138|Ronald William Besinga|ANGGOTA_SIDI|Ronald William Besinga #0000138|Sutera Elok VI No. 45|ALAM SUTERA|539 9146||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Elok VI No. 45
+Prev KK: Ronald William Besinga
+KK After: Ronald William Besinga #0000138
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000139|Evi Gunawati Besinga|ANGGOTA_SIDI|Ronald William Besinga #0000138|Sutera Elok VI No. 45|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Elok VI No. 45
+Prev KK: Ronald William Besinga
+KK After: Ronald William Besinga #0000138
+DOB 2000-09-22
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2002016|Timothy Ronald Besinga|ANGGOTA_ANAK|Ronald William Besinga #0000138|Sutera Elok VI No. 45|ALAM SUTERA|||2000-09-22|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Elok VI No. 45
+Prev KK: Ronald William Besinga
+KK After: Ronald William Besinga #0000138
+DOB 1998-09-12
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2002047|Kezia Gabriella Besinga|ANGGOTA_ANAK|Ronald William Besinga #0000138|Sutera Elok VI No. 45|ALAM SUTERA|||1998-09-12|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera flamboyan i no. 75 alam sutera
+NOMOR
+DOB 1979-12-27
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000007|Gabriel Ade Christian Arwanto|ANGGOTA_SIDI|Gabriel Ade Christian Arwanto #0000007|Sutera Flamboyan I No. 75 Alam Sutera|ALAM SUTERA||0818 02596457|1979-12-27|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera flamboyan v no. 23
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000825|Budi Sayuto|ANGGOTA_SIDI|Budi Sayuto #0000825|Sutera Flamboyan V No. 23|ALAM SUTERA|531 20551||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Flamboyan V No. 23
+Prev KK: Budi Sayuto
+KK After: Budi Sayuto #0000825
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000826|Delista Ariswati Tobigo|ANGGOTA_SIDI|Budi Sayuto #0000825|Sutera Flamboyan V No. 23|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Flamboyan V No. 23
+Prev KK: Budi Sayuto
+KK After: Budi Sayuto #0000825
+DOB 1999-10-14
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2000007|Gavin Lambert Sayuto|ANGGOTA_ANAK|Budi Sayuto #0000825|Sutera Flamboyan V No. 23|ALAM SUTERA|||1999-10-14|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera feronia 3 no. 11 alam sutera
+NOMOR
+DOB 1976-07-26
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000031|Benny Santana|ANGGOTA_SIDI|Benny Santana #0000031|Sutera Feronia 3 No. 11 Alam Sutera|ALAM SUTERA||0815 9917520|1976-07-26|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Feronia 3 No. 11 Alam Sutera
+Prev KK: Benny Santana
+KK After: Benny Santana #0000031
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2014040|Calista Santana Putri|ANGGOTA_ANAK|Benny Santana #0000031|Sutera Feronia 3 No. 11 Alam Sutera|ALAM SUTERA|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera gardenia iv no. 19
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000797|I Gusti Ayu Setiawati|ANGGOTA_SIDI|I Gusti Ayu Setiawati #0000797|Sutera Gardenia IV No. 19|ALAM SUTERA|539 7766||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera gardenia vii no. 2
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000827|Rudi Filino Hutagalung|ANGGOTA_SIDI|Rudi Filino Hutagalung #0000827|Sutera Gardenia VII No. 2|ALAM SUTERA|531 20682||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Gardenia VII No. 2
+Prev KK: Rudi Filino Hutagalung
+KK After: Rudi Filino Hutagalung #0000827
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000828|Tetty Lismey V. Sitorus|ANGGOTA_SIDI|Rudi Filino Hutagalung #0000827|Sutera Gardenia VII No. 2|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Gardenia VII No. 2
+Prev KK: Rudi Filino Hutagalung
+KK After: Rudi Filino Hutagalung #0000827
+DOB 2002-08-31
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2002033|Puan Grace Lamria|ANGGOTA_ANAK|Rudi Filino Hutagalung #0000827|Sutera Gardenia VII No. 2|ALAM SUTERA|||2002-08-31|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Gardenia VII No. 2
+Prev KK: Rudi Filino Hutagalung
+KK After: Rudi Filino Hutagalung #0000827
+DOB 2005-03-16
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2005023|Pieter Rendy Putra Hutagalung|ANGGOTA_ANAK|Rudi Filino Hutagalung #0000827|Sutera Gardenia VII No. 2|ALAM SUTERA|||2005-03-16|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera intan ii no. 3
+NOMOR
+DOB None
+DARAH AB
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL petrusbintoro@yahoo.com
+True|D0000097|Petrus Bintoro|ANGGOTA_SIDI|Petrus Bintoro #0000097|Sutera Intan II No. 3|ALAM SUTERA|539 6828|0812 9202662|None|MENIKAH|AB|RP|petrusbintoro@yahoo.com|ALAM SUTERA|Tionghoa|S1|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Intan II No. 3
+Prev KK: Petrus Bintoro
+KK After: Petrus Bintoro #0000097
+DOB None
+DARAH A
+PENDIDIKAN S3
+PROFESI None
+ETNIK Tionghoa
+EMAIL poetry_me_2000c@yahoo.com
+False|D0000098|Putri Sari Wisman|ANGGOTA_SIDI|Petrus Bintoro #0000097|Sutera Intan II No. 3|ALAM SUTERA||0811 170771|None|MENIKAH|A|RP|poetry_me_2000c@yahoo.com|ALAM SUTERA|Tionghoa|S3|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Intan II No. 3
+Prev KK: Petrus Bintoro
+KK After: Petrus Bintoro #0000097
+DOB 1998-02-28
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000346|Pheodora Mary Bintoro|ANGGOTA_SIDI|Petrus Bintoro #0000097|Sutera Intan II No. 3|ALAM SUTERA|||1998-02-28|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Intan II No. 3
+Prev KK: Petrus Bintoro
+KK After: Petrus Bintoro #0000097
+DOB 2005-03-29
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2005024|Phoebe Pascaline Bintoro|ANGGOTA_ANAK|Petrus Bintoro #0000097|Sutera Intan II No. 3|ALAM SUTERA|||2005-03-29|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera intan iv no. 5
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN S2
+PROFESI None
+ETNIK Tionghoa
+EMAIL sinbun@cbn.net.id
+True|D0000440|Sin Bun|ANGGOTA_SIDI|Sin Bun #0000440|Sutera Intan IV No. 5|ALAM SUTERA|5312 4058/59|0818 689896|None|MENIKAH|NN|NN|sinbun@cbn.net.id|ALAM SUTERA|Tionghoa|S2|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Intan IV No. 5
+Prev KK: Sin Bun
+KK After: Sin Bun #0000440
+DOB None
+DARAH NN
+PENDIDIKAN S2
+PROFESI None
+ETNIK Tionghoa
+EMAIL 
+False|D0000398|Gabriela Dini Lestari|ANGGOTA_SIDI|Sin Bun #0000440|Sutera Intan IV No. 5|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|Tionghoa|S2|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Intan IV No. 5
+Prev KK: Sin Bun
+KK After: Sin Bun #0000440
+DOB 1997-12-22
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A1998004|Theodore Vito|ANGGOTA_ANAK|Sin Bun #0000440|Sutera Intan IV No. 5|ALAM SUTERA|||1997-12-22|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Intan IV No. 5
+Prev KK: Sin Bun
+KK After: Sin Bun #0000440
+DOB 2002-03-28
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2005008|Justiano Louis|ANGGOTA_ANAK|Sin Bun #0000440|Sutera Intan IV No. 5|ALAM SUTERA|||2002-03-28|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera jelita utama no. 60 alam sutera
+NOMOR
+DOB None
+DARAH AB
+PENDIDIKAN S1
+PROFESI None
+ETNIK Jawa
+EMAIL adi_widjajanto@yahoo.com
+True|D0000745|Adi Widjajanto|ANGGOTA_SIDI|Adi Widjajanto #0000745|Sutera Jelita Utama No. 60 Alam Sutera|ALAM SUTERA|539 9756|0816 1821910|None|MENIKAH|AB|RP|adi_widjajanto@yahoo.com|ALAM SUTERA|Jawa|S1|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Jelita Utama No. 60 Alam Sutera
+Prev KK: Adi Widjajanto
+KK After: Adi Widjajanto #0000745
+DOB None
+DARAH A
+PENDIDIKAN Diploma
+PROFESI None
+ETNIK Jawa
+EMAIL 
+False|D0000746|Threstiana Puspita Sari|ANGGOTA_SIDI|Adi Widjajanto #0000745|Sutera Jelita Utama No. 60 Alam Sutera|ALAM SUTERA||0815 10023240|None|MENIKAH|A|RP||ALAM SUTERA|Jawa|Diploma|None||Lektor
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Jelita Utama No. 60 Alam Sutera
+Prev KK: Adi Widjajanto
+KK After: Adi Widjajanto #0000745
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000707|Kanya Pinakaratna B.|ANGGOTA_SIDI|Adi Widjajanto #0000745|Sutera Jelita Utama No. 60 Alam Sutera|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Jelita Utama No. 60 Alam Sutera
+Prev KK: Adi Widjajanto
+KK After: Adi Widjajanto #0000745
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2006015|Kennadi Pryaprajna B.|ANGGOTA_ANAK|Adi Widjajanto #0000745|Sutera Jelita Utama No. 60 Alam Sutera|ALAM SUTERA|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera jelita i no. 80 alam sutera
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000198|Carel Risakotta|ANGGOTA_SIDI|Carel Risakotta #0000198|Sutera Jelita I No. 80 Alam Sutera|ALAM SUTERA|5312 6941||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Jelita I No. 80 Alam Sutera
+Prev KK: Carel Risakotta
+KK After: Carel Risakotta #0000198
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000199|Rini Risakotta|ANGGOTA_SIDI|Carel Risakotta #0000198|Sutera Jelita I No. 80 Alam Sutera|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Jelita I No. 80 Alam Sutera
+Prev KK: Carel Risakotta
+KK After: Carel Risakotta #0000198
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008088|Michael Revelindo Risakotta|ANGGOTA_ANAK|Carel Risakotta #0000198|Sutera Jelita I No. 80 Alam Sutera|ALAM SUTERA|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Jelita I No. 80 Alam Sutera
+Prev KK: Carel Risakotta
+KK After: Carel Risakotta #0000198
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008089|Maya D. Anggraini Risakotta|ANGGOTA_ANAK|Carel Risakotta #0000198|Sutera Jelita I No. 80 Alam Sutera|ALAM SUTERA|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Jelita I No. 80 Alam Sutera
+Prev KK: Carel Risakotta
+KK After: Carel Risakotta #0000198
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2008090|Windi Noveria Risakotta|ANGGOTA_ANAK|Carel Risakotta #0000198|Sutera Jelita I No. 80 Alam Sutera|ALAM SUTERA|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera jelita iii no. 11 alam sutera
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000833|Edgar Muktigar Wibawa|ANGGOTA_SIDI|Edgar Muktigar Wibawa #0000833|Sutera Jelita III No. 11 Alam Sutera|ALAM SUTERA|6831 8365||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera jelita iv no. 23
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000264|Paula Emma Dorothy H.|ANGGOTA_SIDI|Paula Emma Dorothy H. #0000264|Sutera Jelita IV No. 23|ALAM SUTERA|539 7760||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera jelita v n0. 18
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000858|Arny Aprina Ratu|ANGGOTA_SIDI|Arny Aprina Ratu #0000858|Sutera Jelita V N0. 18|ALAM SUTERA|539 7227||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera jelita v no. 22
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000305|Esther Kurnianto|ANGGOTA_SIDI|Esther Kurnianto #0000305|Sutera Jelita V No. 22|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera kirana utama no. 41
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000561|Ingried Dengah|ANGGOTA_SIDI|Ingried Dengah #0000561|Sutera Kirana Utama No. 41|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera kirana ii no. 58
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000904|Fong Ming Foeng|ANGGOTA_SIDI|Fong Ming Foeng #0000904|Sutera Kirana II No. 58|ALAM SUTERA|531 21754||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Kirana II No. 58
+Prev KK: Fong Ming Foeng
+KK After: Fong Ming Foeng #0000904
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000845|Dian Herasari|ANGGOTA_SIDI|Fong Ming Foeng #0000904|Sutera Kirana II No. 58|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera kirana iv no. 7
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000091|Yohanes Soewito Widjaja|ANGGOTA_SIDI|Yohanes Soewito Widjaja #0000091|Sutera Kirana IV No. 7|ALAM SUTERA|5312 1111||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Kirana IV No. 7
+Prev KK: Yohanes Soewito Widjaja
+KK After: Yohanes Soewito Widjaja #0000091
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000092|Ruth Juni Soewito Widjaja|ANGGOTA_SIDI|Yohanes Soewito Widjaja #0000091|Sutera Kirana IV No. 7|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Kirana IV No. 7
+Prev KK: Yohanes Soewito Widjaja
+KK After: Yohanes Soewito Widjaja #0000091
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000093|Amelia Lanny Widjaja|ANGGOTA_SIDI|Yohanes Soewito Widjaja #0000091|Sutera Kirana IV No. 7|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Kirana IV No. 7
+Prev KK: Yohanes Soewito Widjaja
+KK After: Yohanes Soewito Widjaja #0000091
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000094|Hartono Widjaja|ANGGOTA_SIDI|Yohanes Soewito Widjaja #0000091|Sutera Kirana IV No. 7|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera kirana iv no. 18
+NOMOR
+DOB None
+DARAH B
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL 
+True|D0000368|Hinzon Bunyamin|ANGGOTA_SIDI|Hinzon Bunyamin #0000368|Sutera Kirana IV No. 18|ALAM SUTERA|539 6072|0811 857550|None|MENIKAH|B|RP||ALAM SUTERA|Tionghoa|S1|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Kirana IV No. 18
+Prev KK: Hinzon Bunyamin
+KK After: Hinzon Bunyamin #0000368
+DOB None
+DARAH A
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL 
+False|D0000369|Edna Tuty Mulyana Rachman|ANGGOTA_SIDI|Hinzon Bunyamin #0000368|Sutera Kirana IV No. 18|ALAM SUTERA||0812 1058424|None|MENIKAH|A|RP||ALAM SUTERA|Tionghoa|S1|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Kirana IV No. 18
+Prev KK: Hinzon Bunyamin
+KK After: Hinzon Bunyamin #0000368
+DOB None
+DARAH AB
+PENDIDIKAN Diploma
+PROFESI None
+ETNIK Tionghoa
+EMAIL 
+False|D0000370|Ivan Christopher E. Bunyamin|ANGGOTA_SIDI|Hinzon Bunyamin #0000368|Sutera Kirana IV No. 18|ALAM SUTERA|||None|MENIKAH|AB|RP||ALAM SUTERA|Tionghoa|Diploma|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Kirana IV No. 18
+Prev KK: Hinzon Bunyamin
+KK After: Hinzon Bunyamin #0000368
+DOB None
+DARAH A
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL 
+False|D0000786|Sean Elia Bunjamin|ANGGOTA_SIDI|Hinzon Bunyamin #0000368|Sutera Kirana IV No. 18|ALAM SUTERA|||None|MENIKAH|A|RP||ALAM SUTERA|Tionghoa|S1|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Kirana IV No. 18
+Prev KK: Hinzon Bunyamin
+KK After: Hinzon Bunyamin #0000368
+DOB None
+DARAH A
+PENDIDIKAN None
+PROFESI Pelajar/Mahasiswa
+ETNIK Tionghoa
+EMAIL 
+False|D0000787|Alain Malachi Jeremy Bunjamin|ANGGOTA_SIDI|Hinzon Bunyamin #0000368|Sutera Kirana IV No. 18|ALAM SUTERA|||None|MENIKAH|A|RP||ALAM SUTERA|Tionghoa|None|Pelajar/Mahasiswa||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Kirana IV No. 18
+Prev KK: Hinzon Bunyamin
+KK After: Hinzon Bunyamin #0000368
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2014099|Kai Nigella Bunjamin|ANGGOTA_ANAK|Hinzon Bunyamin #0000368|Sutera Kirana IV No. 18|ALAM SUTERA|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera kirana 4 no. 86 alam sutera
+NOMOR
+DOB 1959-12-15
+DARAH B
+PENDIDIKAN S1
+PROFESI None
+ETNIK Tionghoa
+EMAIL dipo_siana@yahoo.com
+True|D0000620|Siana Dipo Selogiri|ANGGOTA_SIDI|Siana Dipo Selogiri #0000620|Sutera Kirana 4 No. 86 Alam Sutera|ALAM SUTERA|5312 1017|0818 277277|1959-12-15|MENIKAH|B|RP|dipo_siana@yahoo.com|ALAM SUTERA|Tionghoa|S1|None|| Komisi 
+Alamat Before: sutera kirana v no. 5
+NOMOR
+DOB None
+DARAH A
+PENDIDIKAN S1
+PROFESI Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta
+ETNIK None
+EMAIL kakiailatuwillem@yahoo.com
+True|D0000043|Willem E. Kakiailatu|ANGGOTA_SIDI|Kamidjo Herusulistyo #0000043|Sutera Kirana V No. 5|ALAM SUTERA|531 20513|0815 74748448|None|MENIKAH|A|RP|kakiailatuwillem@yahoo.com|ALAM SUTERA|None|S1|Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta|| Panitia 
+Alamat Before: sutera kirana v no. 96
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000076|Kalvin R. Hutapea|ANGGOTA_SIDI|Kalvin R. Hutapea #0000076|Sutera Kirana V No. 96|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera narada v no. 2 alam sutera
+NOMOR
+DOB None
+DARAH O
+PENDIDIKAN S2
+PROFESI None
+ETNIK Tionghoa
+EMAIL simonsubiyanto@gmail.com
+True|D0000399|Simon Subiyanto|ANGGOTA_SIDI|Simon Subiyanto #0000399|Sutera Narada V No. 2 Alam Sutera|ALAM SUTERA|4455 3906|0815 13002727|None|MENIKAH|O|RP|simonsubiyanto@gmail.com|ALAM SUTERA|Tionghoa|S2|None|| Panitia, PS 
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Narada V No. 2 Alam Sutera
+Prev KK: Simon Subiyanto
+KK After: Simon Subiyanto #0000399
+DOB None
+DARAH AB
+PENDIDIKAN S2
+PROFESI None
+ETNIK Minahasa
+EMAIL fonny_lomanorek@rgei.com
+False|D0000400|Fonny Lomanorek|ANGGOTA_SIDI|Simon Subiyanto #0000399|Sutera Narada V No. 2 Alam Sutera|ALAM SUTERA||0816 7417896|None|MENIKAH|AB|RP|fonny_lomanorek@rgei.com|ALAM SUTERA|Minahasa|S2|None|| PS, Guru Agama, PMK  
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Narada V No. 2 Alam Sutera
+Prev KK: Simon Subiyanto
+KK After: Simon Subiyanto #0000399
+DOB 1997-01-07
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2010049|Gerry Reuben Sutrisno|ANGGOTA_ANAK|Simon Subiyanto #0000399|Sutera Narada V No. 2 Alam Sutera|ALAM SUTERA|||1997-01-07|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Narada V No. 2 Alam Sutera
+Prev KK: Simon Subiyanto
+KK After: Simon Subiyanto #0000399
+DOB 2007-01-17
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2010050|Ghea Abigael Sutrisno |ANGGOTA_ANAK|Simon Subiyanto #0000399|Sutera Narada V No. 2 Alam Sutera|ALAM SUTERA|||2007-01-17|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera narada ix no. 22 alam sutera
+NOMOR
+DOB 1963-05-29
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000791|Grace Walalangi|ANGGOTA_SIDI|Grace Walalangi #0000791|Sutera Narada IX No. 22 Alam Sutera|ALAM SUTERA|53129066||1963-05-29|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Narada IX No. 22 Alam Sutera
+Prev KK: Grace Walalangi
+KK After: Grace Walalangi #0000791
+DOB 1991-01-07
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000792|Jonathan Somba|ANGGOTA_SIDI|Grace Walalangi #0000791|Sutera Narada IX No. 22 Alam Sutera|ALAM SUTERA|||1991-01-07|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Narada IX No. 22 Alam Sutera
+Prev KK: Grace Walalangi
+KK After: Grace Walalangi #0000791
+DOB 1999-11-08
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2012027|Jasmine Deborah S.|ANGGOTA_ANAK|Grace Walalangi #0000791|Sutera Narada IX No. 22 Alam Sutera|ALAM SUTERA|||1999-11-08|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera olivia ix no. 31
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000990|Audy Lodewik Punuh|ANGGOTA_SIDI|Audy Lodewik Punuh #0000990|Sutera Olivia IX No. 31|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Olivia IX No. 31
+Prev KK: Audy Lodewik Punuh
+KK After: Audy Lodewik Punuh #0000990
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000991|Ivonne Maria|ANGGOTA_SIDI|Audy Lodewik Punuh #0000990|Sutera Olivia IX No. 31|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Olivia IX No. 31
+Prev KK: Audy Lodewik Punuh
+KK After: Audy Lodewik Punuh #0000990
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2007044|Ashley Haggai Arabelle Punuh|ANGGOTA_ANAK|Audy Lodewik Punuh #0000990|Sutera Olivia IX No. 31|ALAM SUTERA|||None|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: lavender v no. 28 alam sutera
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000112|Porry Komalasari|ANGGOTA_SIDI|Porry Komalasari #0000112|Lavender V No. 28 Alam Sutera|ALAM SUTERA|5312 4272||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: j. raya serpong km. 8 no. 8 a alam sutera
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000233|Deden Sopandi|ANGGOTA_SIDI|Deden Sopandi #0000233|J. Raya Serpong Km. 8 No. 8 A Alam Sutera|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sutera delima iv no. 15
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000531|Yulianus Sule Upa|ANGGOTA_SIDI|Yulianus Sule Upa #0000531|Sutera Delima IV No. 15|ALAM SUTERA|539 9136|di Kalimantan|None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Delima IV No. 15
+Prev KK: Yulianus Sule Upa
+KK After: Yulianus Sule Upa #0000531
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|D0000532|Harsiani|ANGGOTA_SIDI|Yulianus Sule Upa #0000531|Sutera Delima IV No. 15|ALAM SUTERA|||None|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: sda
+NOMOR
+Alamat After: Sutera Delima IV No. 15
+Prev KK: Yulianus Sule Upa
+KK After: Yulianus Sule Upa #0000531
+DOB 2004-05-16
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+False|A2004017|Deeandra Disty Maharani|ANGGOTA_ANAK|Yulianus Sule Upa #0000531|Sutera Delima IV No. 15|ALAM SUTERA|||2004-05-16|BELUM_MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. sutera delima ii no. 66 alam sutera
+NOMOR
+DOB 1996-03-13
+DARAH NN
+PENDIDIKAN None
+PROFESI None
+ETNIK None
+EMAIL 
+True|D0000320|Sara Kinasih|ANGGOTA_SIDI|Sara Kinasih #0000320|Jl. Sutera Delima II No. 66 Alam Sutera|ALAM SUTERA|531 21068||1996-03-13|MENIKAH|NN|NN||ALAM SUTERA|None|None|None||
+Alamat Before: jl. sutera palma xviii no. 16 alam sutera serpong
+NOMOR
+DOB None
+DARAH NN
+PENDIDIKAN None
+PROFESI Tni/Polri
+ETNIK Tni/Polri
+EMAIL 
+True|D0000407|Frenky Riupassa|ANGGOTA_SIDI|Frenky Riupassa #0000407|Jl. Sutera Palma XVIII No. 16 Alam Sutera Serpong|ALAM SUTERA||0811 4904300|None|MENIKAH|NN|NN||ALAM SUTERA|Tni/Polri|None|Tni/Polri||

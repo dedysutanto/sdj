@@ -1,0 +1,209 @@
+[
+{
+    "model": "data_support.etnik",
+    "pk": 1,
+    "fields": {
+        "nama_etnik": "Aceh",
+        "created_at": "2021-05-22T02:12:31.996Z",
+        "updated_at": "2021-05-22T02:12:31.996Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 2,
+    "fields": {
+        "nama_etnik": "Bali",
+        "created_at": "2021-05-22T02:12:38.022Z",
+        "updated_at": "2021-05-22T02:12:38.022Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 3,
+    "fields": {
+        "nama_etnik": "Banten",
+        "created_at": "2021-05-22T02:12:43.164Z",
+        "updated_at": "2021-05-22T02:12:43.164Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 4,
+    "fields": {
+        "nama_etnik": "Banjar",
+        "created_at": "2021-05-22T02:12:49.440Z",
+        "updated_at": "2021-05-22T02:13:06.367Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 5,
+    "fields": {
+        "nama_etnik": "Batak",
+        "created_at": "2021-05-22T02:14:46.221Z",
+        "updated_at": "2021-05-22T02:14:46.221Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 6,
+    "fields": {
+        "nama_etnik": "Betawi",
+        "created_at": "2021-05-22T02:14:53.545Z",
+        "updated_at": "2021-05-22T02:14:53.545Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 7,
+    "fields": {
+        "nama_etnik": "Bugis",
+        "created_at": "2021-05-22T02:14:57.348Z",
+        "updated_at": "2021-05-22T02:14:57.348Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 8,
+    "fields": {
+        "nama_etnik": "Cirebon",
+        "created_at": "2021-05-22T02:15:01.390Z",
+        "updated_at": "2021-05-22T02:15:01.390Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 9,
+    "fields": {
+        "nama_etnik": "Dayak",
+        "created_at": "2021-05-22T02:15:05.468Z",
+        "updated_at": "2021-05-22T02:15:05.468Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 10,
+    "fields": {
+        "nama_etnik": "Gorontalo",
+        "created_at": "2021-05-22T02:15:11.166Z",
+        "updated_at": "2021-05-22T02:15:11.166Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 11,
+    "fields": {
+        "nama_etnik": "Jawa",
+        "created_at": "2021-05-22T02:15:15.384Z",
+        "updated_at": "2021-05-22T02:15:15.384Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 12,
+    "fields": {
+        "nama_etnik": "Lampung",
+        "created_at": "2021-05-22T02:15:19.788Z",
+        "updated_at": "2021-05-22T02:15:19.788Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 13,
+    "fields": {
+        "nama_etnik": "Madura",
+        "created_at": "2021-05-22T02:15:23.442Z",
+        "updated_at": "2021-05-22T02:15:23.442Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 14,
+    "fields": {
+        "nama_etnik": "Makasar",
+        "created_at": "2021-05-22T02:15:29.825Z",
+        "updated_at": "2021-05-22T02:15:29.825Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 15,
+    "fields": {
+        "nama_etnik": "Melayu",
+        "created_at": "2021-05-22T02:15:34.059Z",
+        "updated_at": "2021-05-22T02:15:34.059Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 16,
+    "fields": {
+        "nama_etnik": "Minahasa",
+        "created_at": "2021-05-22T02:15:37.925Z",
+        "updated_at": "2021-05-22T02:15:37.925Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 17,
+    "fields": {
+        "nama_etnik": "Minangkabau",
+        "created_at": "2021-05-22T02:15:42.564Z",
+        "updated_at": "2021-05-22T02:15:42.564Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 18,
+    "fields": {
+        "nama_etnik": "Nias",
+        "created_at": "2021-05-22T02:15:45.968Z",
+        "updated_at": "2021-05-22T02:15:45.968Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 19,
+    "fields": {
+        "nama_etnik": "Palembang",
+        "created_at": "2021-05-22T02:15:50.144Z",
+        "updated_at": "2021-05-22T02:15:50.144Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 20,
+    "fields": {
+        "nama_etnik": "Tionghoa",
+        "created_at": "2021-05-22T02:15:58.000Z",
+        "updated_at": "2021-05-22T02:15:58.000Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 21,
+    "fields": {
+        "nama_etnik": "Sasak",
+        "created_at": "2021-05-22T02:16:04.190Z",
+        "updated_at": "2021-05-22T02:16:04.190Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 22,
+    "fields": {
+        "nama_etnik": "Sunda",
+        "created_at": "2021-05-22T02:16:06.892Z",
+        "updated_at": "2021-05-22T02:16:06.892Z"
+    }
+},
+{
+    "model": "data_support.etnik",
+    "pk": 23,
+    "fields": {
+        "nama_etnik": "Lainnya",
+        "created_at": "2021-05-22T02:16:11.317Z",
+        "updated_at": "2021-05-22T02:16:11.317Z"
+    }
+}
+]

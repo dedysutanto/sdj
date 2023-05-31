@@ -1,0 +1,332 @@
+{% extends 'admin/base.html' %}
+
+{% block content %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@3.2.1/dist/chart.min.js" integrity="sha256-uVEHWRIr846/vAdLJeybWxjPNStREzOlqLMXjW/Saeo=" crossorigin="anonymous"></script>
+<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/animated.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/material.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/amcharts.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/frozen.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/kelly.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/dataviz.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/spiritedaway.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/moonrisekingdom.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/microchart.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/patterns.js"></script>
+
+<!--
+<script src="//www.amcharts.com/lib/4/themes/amchartsdark.js"></script>
+<script src="//www.amcharts.com/lib/4/themes/dark.js"></script>
+-->
+
+<div class="col">
+
+<div class="row">   
+    <div class="col">
+        <div class="card card-primary card-outline">
+            <div class="card-header">
+                <h4 class="card-title">Total Jemaat</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="text-center">{{ total_jemaat}}</h1>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card card-primary card-outline">
+            <div class="card-header">
+                <h4 class="card-title">Total Keluarga</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="text-center">{{ total_keluarga }}</h1>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card card-primary card-outline">
+            <div class="card-header">
+                <h4 class="card-title">Data Terverifikasi</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="text-center">{{ total_verifikasi }}</h1>
+            </div>
+        </div>
+    </div>
+</div> <!-- rows -->
+
+<div class="row">
+<!-- Row for Pendidikan -->
+    <div class="col">
+        <div class="card card-primary card-outline">
+            <div class="card-header">
+            <h4 class="card-title">Ratio Pendidikan</h4>
+        </div>
+        <div id="chartdivPendidikan" style="width: 100%; height: 300px;"></div>
+        </div>
+    </div>
+
+<!-- Row for Profesi -->
+    <div class="col">
+        <div class="card card-primary card-outline">
+            <div class="card-header">
+            <h4 class="card-title">Ratio Profesi</h4>
+        </div>
+        <div id="chartdivProfesi" style="width: 100%; height: 300px;"></div>
+        </div>
+    </div>
+
+<!-- Row for Etnik -->
+    <div class="col">
+        <div class="card card-primary card-outline">
+            <div class="card-header">
+            <h4 class="card-title">Ratio Etnik</h4>
+        </div>
+        <div id="chartdivEtnik" style="width: 100%; height: 300px;"></div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col">
+        <div class="card card-primary card-outline">
+            <div class="card-header">
+                <h4 class="card-title">Ratio Gender</h4>
+            </div>
+            <!--
+                <canvas id="chart1" width="100" height="100"></canvas>
+            -->
+            <div id="chartdivGender" style="width: 100%; height: 400px;"></div>
+        </div>       
+    </div>
+    <div class="col">
+        <div class="card card-primary card-outline">
+            <div class="card-header">
+            <h4 class="card-title">Ratio Pernikahan</h4>
+        </div>
+        <!--
+            <canvas id="chart2" width="100" height="100"></canvas>
+        -->
+        <div id="chartdivMarry" style="width: 100%; height: 400px;"></div>
+    </div>
+    </div>
+
+    <div class="col">
+        <div class="card card-primary card-outline">
+            <div class="card-header">
+            <h4 class="card-title">Ratio Golongan Darah</h4>
+        </div>
+        <div id="chartdivBlood" style="width: 100%; height: 400px;"></div>
+        </div>
+    </div>
+
+    </div>
+
+
+</div>
+
+<script>
+/* Create Gender chart */
+am4core.useTheme(am4themes_dataviz); 
+var chartGender = am4core.create("chartdivGender", am4charts.PieChart);
+            
+chartGender.data = [
+{% for key, value in count_gender.items %}
+{
+    "key": "{{ key }}",
+    "value": {{ value }}
+}, 
+{% endfor %}
+];
+            
+/* Define data fields */
+//chartBlood.innerRadius = am4core.percent(40);
+chartGender.legend = new am4charts.Legend();
+// Add and configure Series
+var pieSeries = chartGender.series.push(new am4charts.PieSeries());
+pieSeries.dataFields.value = "value";
+pieSeries.dataFields.category = "key";
+pieSeries.labels.template.disabled = true;
+//pieSeries.ticks.template.disabled = true;
+//pieSeries.slices.template.tooltipText = "";
+am4core.unuseTheme(am4themes_dataviz);
+</script>
+
+<script>
+    /* Create Marry chart */
+    am4core.useTheme(am4themes_kelly); 
+    var chartMarry = am4core.create("chartdivMarry", am4charts.PieChart);
+                
+    chartMarry.data = [
+    {% for key, value in count_marry.items %}
+    {
+        "key": "{{ key }}",
+        "value": {{ value }}
+    }, 
+    {% endfor %}
+    ];
+                
+    /* Define data fields */
+    //chartBlood.innerRadius = am4core.percent(40);
+    chartMarry.legend = new am4charts.Legend();
+    // Add and configure Series
+    var pieSeries = chartMarry.series.push(new am4charts.PieSeries());
+    pieSeries.dataFields.value = "value";
+    pieSeries.dataFields.category = "key";
+    pieSeries.labels.template.disabled = true;
+    //pieSeries.ticks.template.disabled = true;
+    //pieSeries.slices.template.tooltipText = "";
+    am4core.unuseTheme(am4themes_kelly);
+</script>
+
+<script>
+let ctx1 = document.getElementById("chart1").getContext("2d");
+let total_lk = {{ total_lk }}
+let total_pr = {{ total_pr }}
+let chart1 = new Chart(ctx1, {
+  type: "pie",
+  data: {
+    labels: [
+    {% for gender in list_gender %}
+    "{{ gender }}",
+    {% endfor %}
+  ],
+  datasets: [{
+    label: 'Ratio Gender',
+    data: [{% for key, value in count_gender.items %}{{ value }},{% endfor %}],
+    backgroundColor: [
+        'rgb(99, 99, 99)',
+        'rgb(54, 162, 235)',
+        'rgb(255, 99, 132)',
+    ],
+    hoverOffset: 4
+  }]
+  }
+}); 
+</script> 
+<script>
+let ctx2 = document.getElementById("chart2").getContext("2d");
+let age_up_to_twenty = {{ age_up_to_twenty }}
+let age_twenty_to_forty = {{ age_twenty_to_forty }}
+let age_forty_to_sixties = {{ age_forty_to_sixties }}
+let age_gt_sixties = {{ age_gt_sixties }}
+
+let chart2 = new Chart(ctx2, {
+    type: "pie",
+    data: {
+        labels: [
+        '< 20',
+        '20 - 40',
+        '40 - 60',
+        '60 <',
+    ],
+    datasets: [{
+        label: 'Ratio Usia',
+        data: [age_up_to_twenty, age_twenty_to_forty, age_forty_to_sixties, age_gt_sixties],
+        backgroundColor: [
+            'rgb(76, 175, 80)',
+            'rgb(251, 192, 45)',
+            'rgb(0, 162, 235)',
+            'rgb(255, 99, 0)',
+        ],
+        hoverOffset: 4
+      }]
+    }
+}); 
+</script>
+
+
+<script>
+    /* Create Pendidikan chart */
+    am4core.useTheme(am4themes_patterns);   
+    var chartPendidikan = am4core.create("chartdivPendidikan", am4charts.TreeMap);
+    
+    chartPendidikan.data = [
+    {% for key, value in count_pendidikan.items %}
+    {
+      "name": "{{ key }}",
+      "value": {{ value }}
+    }, 
+    {% endfor %}
+    ];
+    
+    /* Define data fields */
+    chartPendidikan.dataFields.value = "value";
+    chartPendidikan.dataFields.name = "name";
+    //chart.legend = new am4charts.Legend();
+    am4core.unuseTheme(am4themes_patterns);
+</script>
+
+
+<script>
+/* Create Profesi chart */
+am4core.useTheme(am4themes_frozen);   
+var chartProfesi = am4core.create("chartdivProfesi", am4charts.TreeMap);
+
+chartProfesi.data = [
+{% for key, value in count_profesi.items %}
+{
+  "name": "{{ key }}",
+  "value": {{ value }}
+}, 
+{% endfor %}
+];
+
+/* Define data fields */
+chartProfesi.dataFields.value = "value";
+chartProfesi.dataFields.name = "name";
+//chart.legend = new am4charts.Legend();
+am4core.unuseTheme(am4themes_frozen);
+</script>
+
+<script>
+/* Create Etnik chart */
+am4core.useTheme(am4themes_material); 
+var chartEtnik = am4core.create("chartdivEtnik", am4charts.TreeMap);
+    
+chartEtnik.data = [
+{% for key, value in count_etnik.items %}
+{
+    "name": "{{ key }}",
+    "value": {{ value }}
+}, 
+{% endfor %}
+];
+    
+/* Define data fields */
+chartEtnik.dataFields.value = "value";
+chartEtnik.dataFields.name = "name";
+//chart.legend = new am4charts.Legend();
+am4core.unuseTheme(am4themes_material);
+</script>
+
+<script>
+/* Create Blood chart */
+am4core.useTheme(am4themes_material); 
+var chartBlood = am4core.create("chartdivBlood", am4charts.PieChart);
+        
+chartBlood.data = [
+{% for key, value in count_blood.items %}
+{
+    "key": "{{ key }}",
+    "value": {{ value }}
+}, 
+{% endfor %}
+];
+        
+/* Define data fields */
+//chartBlood.innerRadius = am4core.percent(40);
+chartBlood.legend = new am4charts.Legend();
+// Add and configure Series
+var pieSeries = chartBlood.series.push(new am4charts.PieSeries());
+pieSeries.dataFields.value = "value";
+pieSeries.dataFields.category = "key";
+pieSeries.labels.template.disabled = true;
+//pieSeries.ticks.template.disabled = true;
+//pieSeries.slices.template.tooltipText = "";
+am4core.unuseTheme(am4themes_material);
+</script>
+
+
+{% endblock %}

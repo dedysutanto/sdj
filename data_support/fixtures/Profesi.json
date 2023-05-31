@@ -1,0 +1,173 @@
+[
+{
+    "model": "data_support.profesi",
+    "pk": 1,
+    "fields": {
+        "nama_profesi": "Pegawai Negeri/Daerah/Pemerintah/Bumn",
+        "created_at": "2021-05-22T01:10:32.512Z",
+        "updated_at": "2021-05-22T01:10:32.512Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 2,
+    "fields": {
+        "nama_profesi": "Tni/Polri",
+        "created_at": "2021-05-22T01:11:17.878Z",
+        "updated_at": "2021-05-22T01:11:42.519Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 3,
+    "fields": {
+        "nama_profesi": "Pegawai Swasta",
+        "created_at": "2021-05-22T01:11:53.341Z",
+        "updated_at": "2021-05-22T01:11:53.341Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 4,
+    "fields": {
+        "nama_profesi": "Pensiunan - Pegawai Negeri/Daerah/Pemerintah/Bumn/Swasta",
+        "created_at": "2021-05-22T01:12:05.300Z",
+        "updated_at": "2021-05-22T01:12:05.300Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 5,
+    "fields": {
+        "nama_profesi": "Direktur/Komisaris/Pengusaha Swasta",
+        "created_at": "2021-05-22T01:12:14.124Z",
+        "updated_at": "2021-05-22T01:12:14.124Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 6,
+    "fields": {
+        "nama_profesi": "Pengusaha Kecil/Petani/Nelayan/Pengrajin",
+        "created_at": "2021-05-22T01:12:24.021Z",
+        "updated_at": "2021-05-22T01:12:24.021Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 7,
+    "fields": {
+        "nama_profesi": "Pengurus Legislatif/Dpr/Dprd",
+        "created_at": "2021-05-22T01:12:34.641Z",
+        "updated_at": "2021-05-22T01:12:34.641Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 8,
+    "fields": {
+        "nama_profesi": "Pengurus Lsm/Partai/Organisasi/Yayasan Kemasyarakatan",
+        "created_at": "2021-05-22T01:12:44.373Z",
+        "updated_at": "2021-05-22T01:12:44.373Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 9,
+    "fields": {
+        "nama_profesi": "Pengurus Organisasi/Yayasan Keagamaan",
+        "created_at": "2021-05-22T01:12:53.452Z",
+        "updated_at": "2021-05-22T01:12:53.452Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 10,
+    "fields": {
+        "nama_profesi": "Praktisi/Penegak Hukum (Jaksa, Hakim, Lawyer, Notaris Dll)",
+        "created_at": "2021-05-22T01:13:04.972Z",
+        "updated_at": "2021-05-22T01:13:04.972Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 11,
+    "fields": {
+        "nama_profesi": "Profesional Kesehatan/Dokter",
+        "created_at": "2021-05-22T01:13:17.335Z",
+        "updated_at": "2021-05-22T01:13:17.335Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 12,
+    "fields": {
+        "nama_profesi": "Profesi Pendidikan - Dosen/Guru",
+        "created_at": "2021-05-22T01:13:24.621Z",
+        "updated_at": "2021-05-22T01:13:24.621Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 13,
+    "fields": {
+        "nama_profesi": "Profesional, Designer, Arsitek, Akuntan Dan Konsultan Lainnya",
+        "created_at": "2021-05-22T01:13:34.227Z",
+        "updated_at": "2021-05-22T01:13:34.227Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 14,
+    "fields": {
+        "nama_profesi": "Seniman/Artis",
+        "created_at": "2021-05-22T01:13:42.275Z",
+        "updated_at": "2021-05-22T01:13:42.275Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 15,
+    "fields": {
+        "nama_profesi": "Tenaga Lepas/Kecil: Buruh/Asn/Satpam/Satpol Pp",
+        "created_at": "2021-05-22T01:13:51.128Z",
+        "updated_at": "2021-05-22T01:13:51.128Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 16,
+    "fields": {
+        "nama_profesi": "Pelajar/Mahasiswa",
+        "created_at": "2021-05-22T01:14:00.195Z",
+        "updated_at": "2021-05-22T01:14:00.195Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 17,
+    "fields": {
+        "nama_profesi": "Ibu Rumah Tangga",
+        "created_at": "2021-05-22T01:14:22.311Z",
+        "updated_at": "2021-05-22T01:14:22.311Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 18,
+    "fields": {
+        "nama_profesi": "Belum/Tidak Bekerja",
+        "created_at": "2021-05-22T01:14:29.820Z",
+        "updated_at": "2021-05-22T01:14:29.820Z"
+    }
+},
+{
+    "model": "data_support.profesi",
+    "pk": 19,
+    "fields": {
+        "nama_profesi": "Lainnya",
+        "created_at": "2021-05-22T01:14:40.770Z",
+        "updated_at": "2021-05-22T01:14:40.770Z"
+    }
+}
+]
