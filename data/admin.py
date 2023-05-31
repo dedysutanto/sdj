@@ -9,6 +9,7 @@ from import_export.admin import ImportExportModelAdmin
 from djangoql.admin import DjangoQLSearchMixin
 
 from data.forms import *
+import datetime
 
 
 class AnggotaResource(resources.ModelResource):
@@ -46,7 +47,7 @@ class AnggotaAdmin(ImportExportModelAdmin):
     form = AnggotaForm
     resource_class = AnggotaResource
     icon_name = 'person'
-    formfield_overrides = {models.DateField: {"widget": SelectDateWidget(years=range(1920, 2021))}}
+    formfield_overrides = {models.DateField: {"widget": SelectDateWidget(years=range(1920, 2024))}}
     list_display = ('nomor_anggota', 'nama_kepala_keluarga', 'nama_anggota', 'jenis_kelamin', 'tanggal_lahir', 'calculate_age', 'wilayah', 'verifikasi')
     list_display_links = ('nomor_anggota', 'nama_anggota',)
     #list_filter = ('status_anggota', 'wilayah' )
