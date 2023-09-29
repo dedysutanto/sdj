@@ -102,6 +102,7 @@ class AnggotaForm(forms.ModelForm):
         field_status_anggota = form_data['status_anggota']
         field_verifikasi = form_data['verifikasi']
         field_alamat_kk = form_data['alamat_kk']
+        field_nama_anggota = form_data['nama_anggota']
 
         ''' Try to get nomor_anggota '''
         '''
