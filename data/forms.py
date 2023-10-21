@@ -196,6 +196,10 @@ class AnggotaForm(forms.ModelForm):
                         nama_kepala_keluarga = field_nama_anggota
                     )
                 self.cleaned_data['nama_kepala_keluarga'] = kk
+
+                if form_data['alamat'] == '':
+                    raise ValidationError({'alamat': 'Alamat tidak boleh kosong'})
+
         else:
             if field_nama_kepala_keluarga == None:
                 raise ValidationError("Nama Kepala Keluarga tidak boleh kosong!")
