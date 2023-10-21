@@ -84,7 +84,8 @@ class AnggotaForm(forms.ModelForm):
         self.fields['jenis_kelamin'].required = True
         self.fields['status_anggota'].required = False
         self.fields['tanggal_lahir'].required = True
-        self.fields['alamat'].required = True
+        #self.fields['alamat'].required = True
+        self.fields['alamat'].required = False
         self.fields['golongan_darah'].required = False
         self.fields['golongan_darah_rhesus'].required = False
         self.fields['status_kehidupan'].required = False
@@ -213,4 +214,9 @@ class AnggotaForm(forms.ModelForm):
                     self.cleaned_data['wilayah'] = alamat_kepala_keluarga.wilayah
                 except ObjectDoesNotExist:
                     raise ValidationError("Nama Kepala Keluarga tidak boleh kosong!")
+
+            else:
+                if form_data['alamat'] == '':
+                    raise ValidationError({'alamat': 'Alamat tidak boleh kosong'})
+
 
